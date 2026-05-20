@@ -1,0 +1,418 @@
+[2026-05-17 10:58:46] [fetch_error] [2026-05-17] Apple Machine Learning Research（RSS）: not well-formed (invalid token): line 29, column 66
+[2026-05-17 10:58:46] [zero_items] [2026-05-17] Apple：Newsroom（RSS）: no items matched date/AI filter
+[2026-05-17 10:58:46] [zero_items] [2026-05-17] Apple Machine Learning Research（RSS）: no items matched date/AI filter
+[2026-05-17 10:58:46] [zero_items] [2026-05-17] Runway：News（网页）: no items matched date/AI filter
+[2026-05-17 10:58:46] [zero_items] [2026-05-17] Simon Willison: no items matched date/AI filter
+[2026-05-17 10:58:46] [zero_items] [2026-05-17] Claude：Blog（网页）: no items matched date/AI filter
+[2026-05-17 10:58:46] [zero_items] [2026-05-17] Cloudflare Blog: no items matched date/AI filter
+[2026-05-17 10:58:46] [zero_items] [2026-05-17] Cursor Blog: no items matched date/AI filter
+[2026-05-17 10:58:46] [zero_items] [2026-05-17] Interconnects: no items matched date/AI filter
+[2026-05-17 10:58:46] [zero_items] [2026-05-17] Gary Marcus：The Road to AI We Can Trust（RSS）: no items matched date/AI filter
+[2026-05-17 10:58:46] [zero_items] [2026-05-17] Ethan Mollick：One Useful Thing（RSS）: no items matched date/AI filter
+[2026-05-17 10:58:46] [zero_items] [2026-05-17] Claude Code：GitHub Releases（RSS）: no items matched date/AI filter
+[2026-05-17 10:58:46] [zero_items] [2026-05-17] GitHub Blog: no items matched date/AI filter
+[2026-05-17 10:58:46] [zero_items] [2026-05-17] Meta Engineering Blog（RSS）: no items matched date/AI filter
+[2026-05-17 10:58:47] [zero_items] [2026-05-17] Google Research：Blog（网页）: no items matched date/AI filter
+[2026-05-17 10:58:47] [zero_items] [2026-05-17] Google Blog：AI（RSS）: no items matched date/AI filter
+[2026-05-17 10:58:47] [zero_items] [2026-05-17] BAIR：Berkeley AI Research Blog: no items matched date/AI filter
+[2026-05-17 10:58:47] [zero_items] [2026-05-17] Hugging Face：Blog（RSS）: no items matched date/AI filter
+[2026-05-17 10:58:47] [zero_items] [2026-05-17] Google DeepMind：Blog（RSS）: no items matched date/AI filter
+[2026-05-17 10:58:47] [zero_items] [2026-05-17] Google Developers Blog（RSS）: no items matched date/AI filter
+[2026-05-17 10:58:47] [zero_items] [2026-05-17] Nathan Lambert：Interconnects（RSS）: no items matched date/AI filter
+[2026-05-17 10:58:48] [zero_items] [2026-05-17] Mistral AI：News（网页）: no items matched date/AI filter
+[2026-05-17 10:58:48] [fetch_error] [2026-05-17] OpenRouter：Announcements（RSS）: not well-formed (invalid token): line 127, column 183
+[2026-05-17 10:58:48] [zero_items] [2026-05-17] OpenRouter：Announcements（RSS）: no items matched date/AI filter
+[2026-05-17 10:58:48] [zero_items] [2026-05-17] X：Sam Altman (@sama): no items matched date/AI filter
+[2026-05-17 10:58:49] [zero_items] [2026-05-17] X：Demis Hassabis (@demishassabis): no items matched date/AI filter
+[2026-05-17 10:58:49] [zero_items] [2026-05-17] X：Google DeepMind (@GoogleDeepMind): no items matched date/AI filter
+[2026-05-17 10:58:49] [zero_items] [2026-05-17] X：Andrej Karpathy (@karpathy): no items matched date/AI filter
+[2026-05-17 10:58:49] [zero_items] [2026-05-17] X：Jim Fan (@DrJimFan): no items matched date/AI filter
+[2026-05-17 10:58:49] [zero_items] [2026-05-17] X：DeepSeek (@deepseek_ai): no items matched date/AI filter
+[2026-05-17 10:58:49] [zero_items] [2026-05-17] Nature：Machine Learning 主题（RSS）: no items matched date/AI filter
+[2026-05-17 10:58:50] [fetch_error] [2026-05-17] X：宝玉 (@dotey): not well-formed (invalid token): line 122, column 3
+[2026-05-17 10:58:50] [zero_items] [2026-05-17] X：宝玉 (@dotey): no items matched date/AI filter
+[2026-05-17 10:58:50] [zero_items] [2026-05-17] X：Rohan Paul (@rohanpaul_ai): no items matched date/AI filter
+[2026-05-17 10:58:50] [zero_items] [2026-05-17] LMSYS：Blog（Chatbot Arena 团队）: no items matched date/AI filter
+[2026-05-17 10:58:51] [fetch_error] [2026-05-17] OpenAI：Alignment 研究博客（RSS）: syntax error: line 1, column 0
+[2026-05-17 10:58:51] [zero_items] [2026-05-17] OpenAI：Alignment 研究博客（RSS）: no items matched date/AI filter
+[2026-05-17 10:58:51] [zero_items] [2026-05-17] X：OpenRouter (@OpenRouter): no items matched date/AI filter
+[2026-05-17 10:58:51] [zero_items] [2026-05-17] X：小北 (@frxiaobei): no items matched date/AI filter
+[2026-05-17 11:02:19] [zero_items] [2026-05-17] Simon Willison: no items matched date/AI filter
+[2026-05-17 11:02:19] [zero_items] [2026-05-17] Apple：Newsroom（RSS）: no items matched date/AI filter
+[2026-05-17 11:02:19] [fetch_error] [2026-05-17] Apple Machine Learning Research（RSS）: not well-formed (invalid token): line 29, column 66
+[2026-05-17 11:02:19] [zero_items] [2026-05-17] Apple Machine Learning Research（RSS）: no items matched date/AI filter
+[2026-05-17 11:02:19] [zero_items] [2026-05-17] Runway：News（网页）: no items matched date/AI filter
+[2026-05-17 11:02:19] [zero_items] [2026-05-17] Cloudflare Blog: no items matched date/AI filter
+[2026-05-17 11:02:19] [zero_items] [2026-05-17] Claude：Blog（网页）: no items matched date/AI filter
+[2026-05-17 11:02:19] [zero_items] [2026-05-17] Cursor Blog: no items matched date/AI filter
+[2026-05-17 11:02:19] [zero_items] [2026-05-17] Interconnects: no items matched date/AI filter
+[2026-05-17 11:02:19] [zero_items] [2026-05-17] Gary Marcus：The Road to AI We Can Trust（RSS）: no items matched date/AI filter
+[2026-05-17 11:02:19] [zero_items] [2026-05-17] Ethan Mollick：One Useful Thing（RSS）: no items matched date/AI filter
+[2026-05-17 11:02:19] [zero_items] [2026-05-17] GitHub Blog: no items matched date/AI filter
+[2026-05-17 11:02:19] [zero_items] [2026-05-17] Claude Code：GitHub Releases（RSS）: no items matched date/AI filter
+[2026-05-17 11:02:19] [zero_items] [2026-05-17] Google Blog：AI（RSS）: no items matched date/AI filter
+[2026-05-17 11:02:19] [zero_items] [2026-05-17] Meta Engineering Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:02:20] [zero_items] [2026-05-17] BAIR：Berkeley AI Research Blog: no items matched date/AI filter
+[2026-05-17 11:02:20] [zero_items] [2026-05-17] Google DeepMind：Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:02:20] [zero_items] [2026-05-17] Google Research：Blog（网页）: no items matched date/AI filter
+[2026-05-17 11:02:20] [zero_items] [2026-05-17] Google Developers Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:02:20] [zero_items] [2026-05-17] Nathan Lambert：Interconnects（RSS）: no items matched date/AI filter
+[2026-05-17 11:02:20] [zero_items] [2026-05-17] Hugging Face：Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:02:21] [zero_items] [2026-05-17] Mistral AI：News（网页）: no items matched date/AI filter
+[2026-05-17 11:02:21] [fetch_error] [2026-05-17] OpenRouter：Announcements（RSS）: not well-formed (invalid token): line 127, column 183
+[2026-05-17 11:02:21] [zero_items] [2026-05-17] OpenRouter：Announcements（RSS）: no items matched date/AI filter
+[2026-05-17 11:02:21] [zero_items] [2026-05-17] X：Sam Altman (@sama): no items matched date/AI filter
+[2026-05-17 11:02:22] [zero_items] [2026-05-17] X：Demis Hassabis (@demishassabis): no items matched date/AI filter
+[2026-05-17 11:02:22] [zero_items] [2026-05-17] X：Google DeepMind (@GoogleDeepMind): no items matched date/AI filter
+[2026-05-17 11:02:22] [zero_items] [2026-05-17] X：DeepSeek (@deepseek_ai): no items matched date/AI filter
+[2026-05-17 11:02:22] [zero_items] [2026-05-17] X：Andrej Karpathy (@karpathy): no items matched date/AI filter
+[2026-05-17 11:02:22] [zero_items] [2026-05-17] Nature：Machine Learning 主题（RSS）: no items matched date/AI filter
+[2026-05-17 11:02:22] [zero_items] [2026-05-17] X：Jim Fan (@DrJimFan): no items matched date/AI filter
+[2026-05-17 11:02:23] [zero_items] [2026-05-17] X：Rohan Paul (@rohanpaul_ai): no items matched date/AI filter
+[2026-05-17 11:02:23] [zero_items] [2026-05-17] LMSYS：Blog（Chatbot Arena 团队）: no items matched date/AI filter
+[2026-05-17 11:02:23] [fetch_error] [2026-05-17] X：宝玉 (@dotey): not well-formed (invalid token): line 148, column 3
+[2026-05-17 11:02:23] [zero_items] [2026-05-17] X：宝玉 (@dotey): no items matched date/AI filter
+[2026-05-17 11:02:23] [zero_items] [2026-05-17] X：OpenRouter (@OpenRouter): no items matched date/AI filter
+[2026-05-17 11:02:24] [fetch_error] [2026-05-17] OpenAI：Alignment 研究博客（RSS）: syntax error: line 1, column 0
+[2026-05-17 11:02:24] [zero_items] [2026-05-17] OpenAI：Alignment 研究博客（RSS）: no items matched date/AI filter
+[2026-05-17 11:02:24] [zero_items] [2026-05-17] X：小北 (@frxiaobei): no items matched date/AI filter
+[2026-05-17 11:03:11] [fetch_error] [2026-05-17] Apple Machine Learning Research（RSS）: not well-formed (invalid token): line 29, column 66
+[2026-05-17 11:03:11] [zero_items] [2026-05-17] Apple Machine Learning Research（RSS）: no items matched date/AI filter
+[2026-05-17 11:03:11] [zero_items] [2026-05-17] Apple：Newsroom（RSS）: no items matched date/AI filter
+[2026-05-17 11:03:11] [zero_items] [2026-05-17] Simon Willison: no items matched date/AI filter
+[2026-05-17 11:03:11] [zero_items] [2026-05-17] Interconnects: no items matched date/AI filter
+[2026-05-17 11:03:12] [zero_items] [2026-05-17] Cloudflare Blog: no items matched date/AI filter
+[2026-05-17 11:03:12] [zero_items] [2026-05-17] Claude：Blog（网页）: no items matched date/AI filter
+[2026-05-17 11:03:12] [zero_items] [2026-05-17] Cursor Blog: no items matched date/AI filter
+[2026-05-17 11:03:12] [zero_items] [2026-05-17] Gary Marcus：The Road to AI We Can Trust（RSS）: no items matched date/AI filter
+[2026-05-17 11:03:12] [zero_items] [2026-05-17] Ethan Mollick：One Useful Thing（RSS）: no items matched date/AI filter
+[2026-05-17 11:03:12] [zero_items] [2026-05-17] GitHub Blog: no items matched date/AI filter
+[2026-05-17 11:03:12] [zero_items] [2026-05-17] Runway：News（网页）: no items matched date/AI filter
+[2026-05-17 11:03:12] [zero_items] [2026-05-17] Claude Code：GitHub Releases（RSS）: no items matched date/AI filter
+[2026-05-17 11:03:12] [zero_items] [2026-05-17] BAIR：Berkeley AI Research Blog: no items matched date/AI filter
+[2026-05-17 11:03:12] [zero_items] [2026-05-17] Google Research：Blog（网页）: no items matched date/AI filter
+[2026-05-17 11:03:12] [zero_items] [2026-05-17] Google DeepMind：Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:03:13] [zero_items] [2026-05-17] Google Blog：AI（RSS）: no items matched date/AI filter
+[2026-05-17 11:03:13] [zero_items] [2026-05-17] Meta Engineering Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:03:13] [zero_items] [2026-05-17] Google Developers Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:03:13] [zero_items] [2026-05-17] Hugging Face：Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:03:13] [zero_items] [2026-05-17] Nathan Lambert：Interconnects（RSS）: no items matched date/AI filter
+[2026-05-17 11:03:13] [zero_items] [2026-05-17] Mistral AI：News（网页）: no items matched date/AI filter
+[2026-05-17 11:03:14] [fetch_error] [2026-05-17] OpenRouter：Announcements（RSS）: not well-formed (invalid token): line 127, column 183
+[2026-05-17 11:03:14] [zero_items] [2026-05-17] OpenRouter：Announcements（RSS）: no items matched date/AI filter
+[2026-05-17 11:03:14] [zero_items] [2026-05-17] X：Sam Altman (@sama): no items matched date/AI filter
+[2026-05-17 11:03:14] [zero_items] [2026-05-17] X：Demis Hassabis (@demishassabis): no items matched date/AI filter
+[2026-05-17 11:03:15] [zero_items] [2026-05-17] X：Google DeepMind (@GoogleDeepMind): no items matched date/AI filter
+[2026-05-17 11:03:15] [zero_items] [2026-05-17] X：DeepSeek (@deepseek_ai): no items matched date/AI filter
+[2026-05-17 11:03:15] [zero_items] [2026-05-17] X：Andrej Karpathy (@karpathy): no items matched date/AI filter
+[2026-05-17 11:03:15] [zero_items] [2026-05-17] X：Jim Fan (@DrJimFan): no items matched date/AI filter
+[2026-05-17 11:03:15] [zero_items] [2026-05-17] Nature：Machine Learning 主题（RSS）: no items matched date/AI filter
+[2026-05-17 11:03:16] [fetch_error] [2026-05-17] X：宝玉 (@dotey): not well-formed (invalid token): line 148, column 3
+[2026-05-17 11:03:16] [zero_items] [2026-05-17] X：宝玉 (@dotey): no items matched date/AI filter
+[2026-05-17 11:03:16] [zero_items] [2026-05-17] X：Rohan Paul (@rohanpaul_ai): no items matched date/AI filter
+[2026-05-17 11:03:16] [zero_items] [2026-05-17] LMSYS：Blog（Chatbot Arena 团队）: no items matched date/AI filter
+[2026-05-17 11:03:16] [zero_items] [2026-05-17] X：OpenRouter (@OpenRouter): no items matched date/AI filter
+[2026-05-17 11:03:17] [fetch_error] [2026-05-17] OpenAI：Alignment 研究博客（RSS）: syntax error: line 1, column 0
+[2026-05-17 11:03:17] [zero_items] [2026-05-17] OpenAI：Alignment 研究博客（RSS）: no items matched date/AI filter
+[2026-05-17 11:03:17] [zero_items] [2026-05-17] X：小北 (@frxiaobei): no items matched date/AI filter
+[2026-05-17 11:04:44] [fetch_error] [2026-05-17] Apple Machine Learning Research（RSS）: not well-formed (invalid token): line 29, column 66
+[2026-05-17 11:04:44] [zero_items] [2026-05-17] Apple：Newsroom（RSS）: no items matched date/AI filter
+[2026-05-17 11:04:44] [zero_items] [2026-05-17] Apple Machine Learning Research（RSS）: no items matched date/AI filter
+[2026-05-17 11:04:44] [zero_items] [2026-05-17] Runway：News（网页）: no items matched date/AI filter
+[2026-05-17 11:04:44] [zero_items] [2026-05-17] Simon Willison: no items matched date/AI filter
+[2026-05-17 11:04:44] [zero_items] [2026-05-17] Claude：Blog（网页）: no items matched date/AI filter
+[2026-05-17 11:04:44] [zero_items] [2026-05-17] Cloudflare Blog: no items matched date/AI filter
+[2026-05-17 11:04:44] [zero_items] [2026-05-17] Interconnects: no items matched date/AI filter
+[2026-05-17 11:04:44] [zero_items] [2026-05-17] Cursor Blog: no items matched date/AI filter
+[2026-05-17 11:04:44] [zero_items] [2026-05-17] Gary Marcus：The Road to AI We Can Trust（RSS）: no items matched date/AI filter
+[2026-05-17 11:04:44] [zero_items] [2026-05-17] Ethan Mollick：One Useful Thing（RSS）: no items matched date/AI filter
+[2026-05-17 11:04:45] [zero_items] [2026-05-17] GitHub Blog: no items matched date/AI filter
+[2026-05-17 11:04:45] [zero_items] [2026-05-17] Claude Code：GitHub Releases（RSS）: no items matched date/AI filter
+[2026-05-17 11:04:45] [zero_items] [2026-05-17] Hugging Face：Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:04:45] [zero_items] [2026-05-17] Google Blog：AI（RSS）: no items matched date/AI filter
+[2026-05-17 11:04:45] [zero_items] [2026-05-17] Google Research：Blog（网页）: no items matched date/AI filter
+[2026-05-17 11:04:45] [zero_items] [2026-05-17] Meta Engineering Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:04:45] [zero_items] [2026-05-17] Google DeepMind：Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:04:45] [zero_items] [2026-05-17] Nathan Lambert：Interconnects（RSS）: no items matched date/AI filter
+[2026-05-17 11:04:45] [zero_items] [2026-05-17] BAIR：Berkeley AI Research Blog: no items matched date/AI filter
+[2026-05-17 11:04:45] [zero_items] [2026-05-17] Google Developers Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:04:46] [fetch_error] [2026-05-17] OpenRouter：Announcements（RSS）: not well-formed (invalid token): line 127, column 183
+[2026-05-17 11:04:46] [zero_items] [2026-05-17] OpenRouter：Announcements（RSS）: no items matched date/AI filter
+[2026-05-17 11:04:46] [zero_items] [2026-05-17] Mistral AI：News（网页）: no items matched date/AI filter
+[2026-05-17 11:04:47] [zero_items] [2026-05-17] X：Sam Altman (@sama): no items matched date/AI filter
+[2026-05-17 11:04:47] [zero_items] [2026-05-17] X：Google DeepMind (@GoogleDeepMind): no items matched date/AI filter
+[2026-05-17 11:04:47] [zero_items] [2026-05-17] X：Demis Hassabis (@demishassabis): no items matched date/AI filter
+[2026-05-17 11:04:47] [zero_items] [2026-05-17] Nature：Machine Learning 主题（RSS）: no items matched date/AI filter
+[2026-05-17 11:04:47] [zero_items] [2026-05-17] X：Andrej Karpathy (@karpathy): no items matched date/AI filter
+[2026-05-17 11:04:47] [zero_items] [2026-05-17] X：Jim Fan (@DrJimFan): no items matched date/AI filter
+[2026-05-17 11:04:47] [zero_items] [2026-05-17] X：DeepSeek (@deepseek_ai): no items matched date/AI filter
+[2026-05-17 11:04:48] [fetch_error] [2026-05-17] X：宝玉 (@dotey): not well-formed (invalid token): line 148, column 3
+[2026-05-17 11:04:48] [zero_items] [2026-05-17] X：宝玉 (@dotey): no items matched date/AI filter
+[2026-05-17 11:04:48] [zero_items] [2026-05-17] X：Rohan Paul (@rohanpaul_ai): no items matched date/AI filter
+[2026-05-17 11:04:48] [zero_items] [2026-05-17] LMSYS：Blog（Chatbot Arena 团队）: no items matched date/AI filter
+[2026-05-17 11:04:49] [zero_items] [2026-05-17] X：OpenRouter (@OpenRouter): no items matched date/AI filter
+[2026-05-17 11:04:49] [fetch_error] [2026-05-17] OpenAI：Alignment 研究博客（RSS）: syntax error: line 1, column 0
+[2026-05-17 11:04:49] [zero_items] [2026-05-17] OpenAI：Alignment 研究博客（RSS）: no items matched date/AI filter
+[2026-05-17 11:04:49] [zero_items] [2026-05-17] X：小北 (@frxiaobei): no items matched date/AI filter
+[2026-05-17 11:26:40] [zero_items] [2026-05-17] Apple：Newsroom（RSS）: no items matched date/AI filter
+[2026-05-17 11:26:40] [zero_items] [2026-05-17] Simon Willison: no items matched date/AI filter
+[2026-05-17 11:26:40] [fetch_error] [2026-05-17] Apple Machine Learning Research（RSS）: not well-formed (invalid token): line 29, column 66
+[2026-05-17 11:26:40] [zero_items] [2026-05-17] Apple Machine Learning Research（RSS）: no items matched date/AI filter
+[2026-05-17 11:26:40] [zero_items] [2026-05-17] Cloudflare Blog: no items matched date/AI filter
+[2026-05-17 11:26:40] [zero_items] [2026-05-17] Interconnects: no items matched date/AI filter
+[2026-05-17 11:26:40] [zero_items] [2026-05-17] Runway：News（网页）: no items matched date/AI filter
+[2026-05-17 11:26:40] [zero_items] [2026-05-17] Claude：Blog（网页）: no items matched date/AI filter
+[2026-05-17 11:26:40] [zero_items] [2026-05-17] Gary Marcus：The Road to AI We Can Trust（RSS）: no items matched date/AI filter
+[2026-05-17 11:26:40] [zero_items] [2026-05-17] Cursor Blog: no items matched date/AI filter
+[2026-05-17 11:26:40] [zero_items] [2026-05-17] GitHub Blog: no items matched date/AI filter
+[2026-05-17 11:26:40] [zero_items] [2026-05-17] Ethan Mollick：One Useful Thing（RSS）: no items matched date/AI filter
+[2026-05-17 11:26:41] [zero_items] [2026-05-17] Claude Code：GitHub Releases（RSS）: no items matched date/AI filter
+[2026-05-17 11:26:41] [zero_items] [2026-05-17] Google Blog：AI（RSS）: no items matched date/AI filter
+[2026-05-17 11:26:41] [zero_items] [2026-05-17] Meta Engineering Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:26:41] [zero_items] [2026-05-17] Google Research：Blog（网页）: no items matched date/AI filter
+[2026-05-17 11:26:41] [zero_items] [2026-05-17] Google DeepMind：Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:26:41] [zero_items] [2026-05-17] BAIR：Berkeley AI Research Blog: no items matched date/AI filter
+[2026-05-17 11:26:41] [zero_items] [2026-05-17] Nathan Lambert：Interconnects（RSS）: no items matched date/AI filter
+[2026-05-17 11:26:41] [zero_items] [2026-05-17] Google Developers Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:26:41] [zero_items] [2026-05-17] Hugging Face：Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:26:41] [zero_items] [2026-05-17] Mistral AI：News（网页）: no items matched date/AI filter
+[2026-05-17 11:26:42] [fetch_error] [2026-05-17] OpenRouter：Announcements（RSS）: not well-formed (invalid token): line 127, column 183
+[2026-05-17 11:26:42] [zero_items] [2026-05-17] OpenRouter：Announcements（RSS）: no items matched date/AI filter
+[2026-05-17 11:26:42] [zero_items] [2026-05-17] X：Sam Altman (@sama): no items matched date/AI filter
+[2026-05-17 11:26:43] [zero_items] [2026-05-17] X：Andrej Karpathy (@karpathy): no items matched date/AI filter
+[2026-05-17 11:26:43] [zero_items] [2026-05-17] X：Demis Hassabis (@demishassabis): no items matched date/AI filter
+[2026-05-17 11:26:43] [zero_items] [2026-05-17] X：Jim Fan (@DrJimFan): no items matched date/AI filter
+[2026-05-17 11:26:43] [zero_items] [2026-05-17] X：Google DeepMind (@GoogleDeepMind): no items matched date/AI filter
+[2026-05-17 11:26:43] [zero_items] [2026-05-17] X：DeepSeek (@deepseek_ai): no items matched date/AI filter
+[2026-05-17 11:26:43] [zero_items] [2026-05-17] Nature：Machine Learning 主题（RSS）: no items matched date/AI filter
+[2026-05-17 11:26:44] [fetch_error] [2026-05-17] X：宝玉 (@dotey): not well-formed (invalid token): line 122, column 3
+[2026-05-17 11:26:44] [zero_items] [2026-05-17] X：宝玉 (@dotey): no items matched date/AI filter
+[2026-05-17 11:26:44] [zero_items] [2026-05-17] LMSYS：Blog（Chatbot Arena 团队）: no items matched date/AI filter
+[2026-05-17 11:26:45] [fetch_error] [2026-05-17] OpenAI：Alignment 研究博客（RSS）: syntax error: line 1, column 0
+[2026-05-17 11:26:45] [zero_items] [2026-05-17] OpenAI：Alignment 研究博客（RSS）: no items matched date/AI filter
+[2026-05-17 11:26:45] [zero_items] [2026-05-17] X：OpenRouter (@OpenRouter): no items matched date/AI filter
+[2026-05-17 11:26:46] [zero_items] [2026-05-17] X：小北 (@frxiaobei): no items matched date/AI filter
+[2026-05-17 11:29:43] [zero_items] [2026-05-17] Interconnects: no items matched date/AI filter
+[2026-05-17 11:29:43] [zero_items] [2026-05-17] Simon Willison: no items matched date/AI filter
+[2026-05-17 11:29:43] [zero_items] [2026-05-17] Apple：Newsroom（RSS）: no items matched date/AI filter
+[2026-05-17 11:29:43] [zero_items] [2026-05-17] Cloudflare Blog: no items matched date/AI filter
+[2026-05-17 11:29:43] [zero_items] [2026-05-17] Runway：News（网页）: no items matched date/AI filter
+[2026-05-17 11:29:44] [zero_items] [2026-05-17] Claude：Blog（网页）: no items matched date/AI filter
+[2026-05-17 11:29:44] [zero_items] [2026-05-17] Cursor Blog: no items matched date/AI filter
+[2026-05-17 11:29:44] [zero_items] [2026-05-17] Gary Marcus：The Road to AI We Can Trust（RSS）: no items matched date/AI filter
+[2026-05-17 11:29:44] [zero_items] [2026-05-17] GitHub Blog: no items matched date/AI filter
+[2026-05-17 11:29:44] [zero_items] [2026-05-17] Ethan Mollick：One Useful Thing（RSS）: no items matched date/AI filter
+[2026-05-17 11:29:44] [zero_items] [2026-05-17] Claude Code：GitHub Releases（RSS）: no items matched date/AI filter
+[2026-05-17 11:29:44] [fetch_error] [2026-05-17] Apple Machine Learning Research（RSS）: not well-formed (invalid token): line 29, column 66
+[2026-05-17 11:29:44] [zero_items] [2026-05-17] Apple Machine Learning Research（RSS）: no items matched date/AI filter
+[2026-05-17 11:29:44] [zero_items] [2026-05-17] Google Blog：AI（RSS）: no items matched date/AI filter
+[2026-05-17 11:29:44] [zero_items] [2026-05-17] BAIR：Berkeley AI Research Blog: no items matched date/AI filter
+[2026-05-17 11:29:44] [zero_items] [2026-05-17] Google DeepMind：Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:29:44] [zero_items] [2026-05-17] Meta Engineering Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:29:44] [zero_items] [2026-05-17] Google Developers Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:29:44] [zero_items] [2026-05-17] Google Research：Blog（网页）: no items matched date/AI filter
+[2026-05-17 11:29:44] [zero_items] [2026-05-17] Nathan Lambert：Interconnects（RSS）: no items matched date/AI filter
+[2026-05-17 11:29:44] [zero_items] [2026-05-17] Hugging Face：Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:29:45] [zero_items] [2026-05-17] Mistral AI：News（网页）: no items matched date/AI filter
+[2026-05-17 11:29:45] [fetch_error] [2026-05-17] OpenRouter：Announcements（RSS）: not well-formed (invalid token): line 127, column 183
+[2026-05-17 11:29:45] [zero_items] [2026-05-17] OpenRouter：Announcements（RSS）: no items matched date/AI filter
+[2026-05-17 11:29:46] [zero_items] [2026-05-17] X：Sam Altman (@sama): no items matched date/AI filter
+[2026-05-17 11:29:46] [zero_items] [2026-05-17] X：Google DeepMind (@GoogleDeepMind): no items matched date/AI filter
+[2026-05-17 11:29:46] [zero_items] [2026-05-17] X：DeepSeek (@deepseek_ai): no items matched date/AI filter
+[2026-05-17 11:29:46] [zero_items] [2026-05-17] X：Demis Hassabis (@demishassabis): no items matched date/AI filter
+[2026-05-17 11:29:46] [zero_items] [2026-05-17] X：Andrej Karpathy (@karpathy): no items matched date/AI filter
+[2026-05-17 11:29:47] [zero_items] [2026-05-17] X：Jim Fan (@DrJimFan): no items matched date/AI filter
+[2026-05-17 11:29:47] [zero_items] [2026-05-17] Nature：Machine Learning 主题（RSS）: no items matched date/AI filter
+[2026-05-17 11:29:47] [fetch_error] [2026-05-17] X：宝玉 (@dotey): not well-formed (invalid token): line 122, column 3
+[2026-05-17 11:29:47] [zero_items] [2026-05-17] X：宝玉 (@dotey): no items matched date/AI filter
+[2026-05-17 11:29:48] [zero_items] [2026-05-17] LMSYS：Blog（Chatbot Arena 团队）: no items matched date/AI filter
+[2026-05-17 11:29:48] [fetch_error] [2026-05-17] OpenAI：Alignment 研究博客（RSS）: syntax error: line 1, column 0
+[2026-05-17 11:29:48] [zero_items] [2026-05-17] OpenAI：Alignment 研究博客（RSS）: no items matched date/AI filter
+[2026-05-17 11:29:48] [zero_items] [2026-05-17] X：OpenRouter (@OpenRouter): no items matched date/AI filter
+[2026-05-17 11:29:48] [zero_items] [2026-05-17] X：小北 (@frxiaobei): no items matched date/AI filter
+[2026-05-17 11:31:38] [zero_items] [2026-05-17] Apple：Newsroom（RSS）: no items matched date/AI filter
+[2026-05-17 11:31:38] [zero_items] [2026-05-17] Simon Willison: no items matched date/AI filter
+[2026-05-17 11:31:38] [zero_items] [2026-05-17] Runway：News（网页）: no items matched date/AI filter
+[2026-05-17 11:31:38] [zero_items] [2026-05-17] Interconnects: no items matched date/AI filter
+[2026-05-17 11:31:38] [zero_items] [2026-05-17] Cloudflare Blog: no items matched date/AI filter
+[2026-05-17 11:31:38] [zero_items] [2026-05-17] Claude：Blog（网页）: no items matched date/AI filter
+[2026-05-17 11:31:39] [zero_items] [2026-05-17] Cursor Blog: no items matched date/AI filter
+[2026-05-17 11:31:39] [zero_items] [2026-05-17] Gary Marcus：The Road to AI We Can Trust（RSS）: no items matched date/AI filter
+[2026-05-17 11:31:39] [zero_items] [2026-05-17] Ethan Mollick：One Useful Thing（RSS）: no items matched date/AI filter
+[2026-05-17 11:31:39] [zero_items] [2026-05-17] GitHub Blog: no items matched date/AI filter
+[2026-05-17 11:31:39] [fetch_error] [2026-05-17] Apple Machine Learning Research（RSS）: not well-formed (invalid token): line 29, column 66
+[2026-05-17 11:31:39] [zero_items] [2026-05-17] Apple Machine Learning Research（RSS）: no items matched date/AI filter
+[2026-05-17 11:31:39] [zero_items] [2026-05-17] Claude Code：GitHub Releases（RSS）: no items matched date/AI filter
+[2026-05-17 11:31:39] [zero_items] [2026-05-17] Google Blog：AI（RSS）: no items matched date/AI filter
+[2026-05-17 11:31:39] [zero_items] [2026-05-17] Google Research：Blog（网页）: no items matched date/AI filter
+[2026-05-17 11:31:39] [zero_items] [2026-05-17] BAIR：Berkeley AI Research Blog: no items matched date/AI filter
+[2026-05-17 11:31:39] [zero_items] [2026-05-17] Meta Engineering Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:31:39] [zero_items] [2026-05-17] Google DeepMind：Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:31:39] [zero_items] [2026-05-17] Hugging Face：Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:31:39] [zero_items] [2026-05-17] Nathan Lambert：Interconnects（RSS）: no items matched date/AI filter
+[2026-05-17 11:31:39] [zero_items] [2026-05-17] Google Developers Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:31:40] [fetch_error] [2026-05-17] OpenRouter：Announcements（RSS）: not well-formed (invalid token): line 127, column 183
+[2026-05-17 11:31:40] [zero_items] [2026-05-17] OpenRouter：Announcements（RSS）: no items matched date/AI filter
+[2026-05-17 11:31:40] [zero_items] [2026-05-17] Mistral AI：News（网页）: no items matched date/AI filter
+[2026-05-17 11:31:41] [zero_items] [2026-05-17] X：Sam Altman (@sama): no items matched date/AI filter
+[2026-05-17 11:31:41] [zero_items] [2026-05-17] X：Andrej Karpathy (@karpathy): no items matched date/AI filter
+[2026-05-17 11:31:41] [zero_items] [2026-05-17] X：Demis Hassabis (@demishassabis): no items matched date/AI filter
+[2026-05-17 11:31:41] [zero_items] [2026-05-17] X：Google DeepMind (@GoogleDeepMind): no items matched date/AI filter
+[2026-05-17 11:31:41] [zero_items] [2026-05-17] X：DeepSeek (@deepseek_ai): no items matched date/AI filter
+[2026-05-17 11:31:41] [zero_items] [2026-05-17] X：Jim Fan (@DrJimFan): no items matched date/AI filter
+[2026-05-17 11:31:42] [zero_items] [2026-05-17] Nature：Machine Learning 主题（RSS）: no items matched date/AI filter
+[2026-05-17 11:31:42] [fetch_error] [2026-05-17] X：宝玉 (@dotey): not well-formed (invalid token): line 122, column 3
+[2026-05-17 11:31:42] [zero_items] [2026-05-17] X：宝玉 (@dotey): no items matched date/AI filter
+[2026-05-17 11:31:42] [zero_items] [2026-05-17] LMSYS：Blog（Chatbot Arena 团队）: no items matched date/AI filter
+[2026-05-17 11:31:43] [fetch_error] [2026-05-17] OpenAI：Alignment 研究博客（RSS）: syntax error: line 1, column 0
+[2026-05-17 11:31:43] [zero_items] [2026-05-17] OpenAI：Alignment 研究博客（RSS）: no items matched date/AI filter
+[2026-05-17 11:31:43] [zero_items] [2026-05-17] X：小北 (@frxiaobei): no items matched date/AI filter
+[2026-05-17 11:31:44] [zero_items] [2026-05-17] X：OpenRouter (@OpenRouter): no items matched date/AI filter
+[2026-05-17 11:33:06] [fetch_error] [2026-05-17] Apple Machine Learning Research（RSS）: not well-formed (invalid token): line 29, column 66
+[2026-05-17 11:33:06] [zero_items] [2026-05-17] Apple Machine Learning Research（RSS）: no items matched date/AI filter
+[2026-05-17 11:33:06] [zero_items] [2026-05-17] Interconnects: no items matched date/AI filter
+[2026-05-17 11:33:06] [zero_items] [2026-05-17] Runway：News（网页）: no items matched date/AI filter
+[2026-05-17 11:33:06] [zero_items] [2026-05-17] Cloudflare Blog: no items matched date/AI filter
+[2026-05-17 11:33:07] [zero_items] [2026-05-17] Claude：Blog（网页）: no items matched date/AI filter
+[2026-05-17 11:33:07] [zero_items] [2026-05-17] Gary Marcus：The Road to AI We Can Trust（RSS）: no items matched date/AI filter
+[2026-05-17 11:33:07] [zero_items] [2026-05-17] Cursor Blog: no items matched date/AI filter
+[2026-05-17 11:33:07] [zero_items] [2026-05-17] Claude Code：GitHub Releases（RSS）: no items matched date/AI filter
+[2026-05-17 11:33:07] [zero_items] [2026-05-17] GitHub Blog: no items matched date/AI filter
+[2026-05-17 11:33:07] [zero_items] [2026-05-17] Ethan Mollick：One Useful Thing（RSS）: no items matched date/AI filter
+[2026-05-17 11:33:07] [zero_items] [2026-05-17] Simon Willison: no items matched date/AI filter
+[2026-05-17 11:33:07] [zero_items] [2026-05-17] Apple：Newsroom（RSS）: no items matched date/AI filter
+[2026-05-17 11:33:07] [zero_items] [2026-05-17] BAIR：Berkeley AI Research Blog: no items matched date/AI filter
+[2026-05-17 11:33:07] [zero_items] [2026-05-17] Google Blog：AI（RSS）: no items matched date/AI filter
+[2026-05-17 11:33:07] [zero_items] [2026-05-17] Google DeepMind：Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:33:07] [zero_items] [2026-05-17] Meta Engineering Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:33:07] [zero_items] [2026-05-17] Google Research：Blog（网页）: no items matched date/AI filter
+[2026-05-17 11:33:08] [zero_items] [2026-05-17] Google Developers Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:33:08] [zero_items] [2026-05-17] Nathan Lambert：Interconnects（RSS）: no items matched date/AI filter
+[2026-05-17 11:33:08] [zero_items] [2026-05-17] Hugging Face：Blog（RSS）: no items matched date/AI filter
+[2026-05-17 11:33:08] [zero_items] [2026-05-17] Mistral AI：News（网页）: no items matched date/AI filter
+[2026-05-17 11:33:08] [fetch_error] [2026-05-17] OpenRouter：Announcements（RSS）: not well-formed (invalid token): line 127, column 183
+[2026-05-17 11:33:08] [zero_items] [2026-05-17] OpenRouter：Announcements（RSS）: no items matched date/AI filter
+[2026-05-17 11:33:09] [zero_items] [2026-05-17] X：Sam Altman (@sama): no items matched date/AI filter
+[2026-05-17 11:33:09] [zero_items] [2026-05-17] X：Andrej Karpathy (@karpathy): no items matched date/AI filter
+[2026-05-17 11:33:09] [zero_items] [2026-05-17] X：DeepSeek (@deepseek_ai): no items matched date/AI filter
+[2026-05-17 11:33:09] [zero_items] [2026-05-17] X：Demis Hassabis (@demishassabis): no items matched date/AI filter
+[2026-05-17 11:33:09] [zero_items] [2026-05-17] X：Google DeepMind (@GoogleDeepMind): no items matched date/AI filter
+[2026-05-17 11:33:09] [zero_items] [2026-05-17] X：Jim Fan (@DrJimFan): no items matched date/AI filter
+[2026-05-17 11:33:10] [zero_items] [2026-05-17] Nature：Machine Learning 主题（RSS）: no items matched date/AI filter
+[2026-05-17 11:33:10] [fetch_error] [2026-05-17] X：宝玉 (@dotey): not well-formed (invalid token): line 122, column 3
+[2026-05-17 11:33:10] [zero_items] [2026-05-17] X：宝玉 (@dotey): no items matched date/AI filter
+[2026-05-17 11:33:11] [zero_items] [2026-05-17] X：OpenRouter (@OpenRouter): no items matched date/AI filter
+[2026-05-17 11:33:11] [fetch_error] [2026-05-17] OpenAI：Alignment 研究博客（RSS）: syntax error: line 1, column 0
+[2026-05-17 11:33:11] [zero_items] [2026-05-17] OpenAI：Alignment 研究博客（RSS）: no items matched date/AI filter
+[2026-05-17 11:33:11] [zero_items] [2026-05-17] X：小北 (@frxiaobei): no items matched date/AI filter
+[2026-05-17 11:33:11] [zero_items] [2026-05-17] LMSYS：Blog（Chatbot Arena 团队）: no items matched date/AI filter
+[2026-05-18 09:47:12] [zero_items] [2026-05-18] Apple：Newsroom（RSS）: no items matched date/AI filter
+[2026-05-18 09:47:12] [zero_items] [2026-05-18] Simon Willison: no items matched date/AI filter
+[2026-05-18 09:47:12] [zero_items] [2026-05-18] Cloudflare Blog: no items matched date/AI filter
+[2026-05-18 09:47:12] [zero_items] [2026-05-18] Runway：News（网页）: no items matched date/AI filter
+[2026-05-18 09:47:12] [zero_items] [2026-05-18] Claude：Blog（网页）: no items matched date/AI filter
+[2026-05-18 09:47:12] [fetch_error] [2026-05-18] Apple Machine Learning Research（RSS）: not well-formed (invalid token): line 29, column 66
+[2026-05-18 09:47:12] [zero_items] [2026-05-18] Apple Machine Learning Research（RSS）: no items matched date/AI filter
+[2026-05-18 09:47:12] [zero_items] [2026-05-18] Cursor Blog: no items matched date/AI filter
+[2026-05-18 09:47:12] [zero_items] [2026-05-18] GitHub Blog: no items matched date/AI filter
+[2026-05-18 09:47:12] [zero_items] [2026-05-18] Gary Marcus：The Road to AI We Can Trust（RSS）: no items matched date/AI filter
+[2026-05-18 09:47:12] [zero_items] [2026-05-18] Interconnects: no items matched date/AI filter
+[2026-05-18 09:47:13] [zero_items] [2026-05-18] Claude Code：GitHub Releases（RSS）: no items matched date/AI filter
+[2026-05-18 09:47:13] [zero_items] [2026-05-18] Ethan Mollick：One Useful Thing（RSS）: no items matched date/AI filter
+[2026-05-18 09:47:13] [zero_items] [2026-05-18] Meta Engineering Blog（RSS）: no items matched date/AI filter
+[2026-05-18 09:47:13] [zero_items] [2026-05-18] Hugging Face：Blog（RSS）: no items matched date/AI filter
+[2026-05-18 09:47:13] [zero_items] [2026-05-18] Google DeepMind：Blog（RSS）: no items matched date/AI filter
+[2026-05-18 09:47:13] [zero_items] [2026-05-18] Google Blog：AI（RSS）: no items matched date/AI filter
+[2026-05-18 09:47:13] [zero_items] [2026-05-18] Google Research：Blog（网页）: no items matched date/AI filter
+[2026-05-18 09:47:13] [zero_items] [2026-05-18] BAIR：Berkeley AI Research Blog: no items matched date/AI filter
+[2026-05-18 09:47:13] [zero_items] [2026-05-18] Google Developers Blog（RSS）: no items matched date/AI filter
+[2026-05-18 09:47:13] [zero_items] [2026-05-18] Nathan Lambert：Interconnects（RSS）: no items matched date/AI filter
+[2026-05-18 09:47:14] [fetch_error] [2026-05-18] OpenRouter：Announcements（RSS）: not well-formed (invalid token): line 127, column 183
+[2026-05-18 09:47:14] [zero_items] [2026-05-18] OpenRouter：Announcements（RSS）: no items matched date/AI filter
+[2026-05-18 09:47:14] [zero_items] [2026-05-18] Mistral AI：News（网页）: no items matched date/AI filter
+[2026-05-18 09:47:15] [zero_items] [2026-05-18] X：Claude Devs (@ClaudeDevs): no items matched date/AI filter
+[2026-05-18 09:47:15] [zero_items] [2026-05-18] X：Sam Altman (@sama): no items matched date/AI filter
+[2026-05-18 09:47:15] [zero_items] [2026-05-18] X：Demis Hassabis (@demishassabis): no items matched date/AI filter
+[2026-05-18 09:47:15] [zero_items] [2026-05-18] X：Andrej Karpathy (@karpathy): no items matched date/AI filter
+[2026-05-18 09:47:15] [zero_items] [2026-05-18] X：Jim Fan (@DrJimFan): no items matched date/AI filter
+[2026-05-18 09:47:15] [zero_items] [2026-05-18] Nature：Machine Learning 主题（RSS）: no items matched date/AI filter
+[2026-05-18 09:47:15] [zero_items] [2026-05-18] X：Google DeepMind (@GoogleDeepMind): no items matched date/AI filter
+[2026-05-18 09:47:15] [zero_items] [2026-05-18] X：DeepSeek (@deepseek_ai): no items matched date/AI filter
+[2026-05-18 09:47:16] [fetch_error] [2026-05-18] X：宝玉 (@dotey): not well-formed (invalid token): line 145, column 3
+[2026-05-18 09:47:16] [zero_items] [2026-05-18] X：宝玉 (@dotey): no items matched date/AI filter
+[2026-05-18 09:47:17] [zero_items] [2026-05-18] X：OpenRouter (@OpenRouter): no items matched date/AI filter
+[2026-05-18 09:47:17] [zero_items] [2026-05-18] LMSYS：Blog（Chatbot Arena 团队）: no items matched date/AI filter
+[2026-05-18 09:47:17] [zero_items] [2026-05-18] Anthropic：Newsroom（网页）: no items matched date/AI filter
+[2026-05-18 09:47:17] [fetch_error] [2026-05-18] OpenAI：Alignment 研究博客（RSS）: syntax error: line 1, column 0
+[2026-05-18 09:47:17] [zero_items] [2026-05-18] OpenAI：Alignment 研究博客（RSS）: no items matched date/AI filter
+{"error":"Authentication failed: Cookie authentication failed","level":"error","message":"Health check authentication error","service":"agent-twitter-client-mcp","stack":"TwitterMcpError: Authentication failed: Cookie authentication failed\n    at AuthenticationManager.getScraper (file:///Users/yanlixing/.hermes/vendor/agent-twitter-client-mcp/node_modules/agent-twitter-client-mcp/build/authentication.js:58:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async performHealthCheck (file:///Users/yanlixing/.hermes/vendor/agent-twitter-client-mcp/node_modules/agent-twitter-client-mcp/build/health.js:16:29)\n    at async startServer (file:///Users/yanlixing/.hermes/vendor/agent-twitter-client-mcp/node_modules/agent-twitter-client-mcp/build/index.js:566:34)","timestamp":"2026-05-18T01:58:29.941Z"}
+{"error":"Authentication failed: Cookie authentication failed","level":"error","message":"Health check authentication error","service":"agent-twitter-client-mcp","stack":"TwitterMcpError: Authentication failed: Cookie authentication failed\n    at AuthenticationManager.getScraper (file:///Users/yanlixing/.hermes/vendor/agent-twitter-client-mcp/node_modules/agent-twitter-client-mcp/build/authentication.js:58:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async performHealthCheck (file:///Users/yanlixing/.hermes/vendor/agent-twitter-client-mcp/node_modules/agent-twitter-client-mcp/build/health.js:16:29)\n    at async startServer (file:///Users/yanlixing/.hermes/vendor/agent-twitter-client-mcp/node_modules/agent-twitter-client-mcp/build/index.js:566:34)","timestamp":"2026-05-18T01:58:43.548Z"}
+{"error":"Authentication failed: Cookie authentication failed","level":"error","message":"Health check authentication error","service":"agent-twitter-client-mcp","stack":"TwitterMcpError: Authentication failed: Cookie authentication failed\n    at AuthenticationManager.getScraper (file:///Users/yanlixing/.hermes/vendor/agent-twitter-client-mcp/node_modules/agent-twitter-client-mcp/build/authentication.js:58:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async performHealthCheck (file:///Users/yanlixing/.hermes/vendor/agent-twitter-client-mcp/node_modules/agent-twitter-client-mcp/build/health.js:16:29)\n    at async startServer (file:///Users/yanlixing/.hermes/vendor/agent-twitter-client-mcp/node_modules/agent-twitter-client-mcp/build/index.js:566:34)","timestamp":"2026-05-18T01:59:15.217Z"}
+{"error":"Authentication failed: Cookie authentication failed","level":"error","message":"Health check authentication error","service":"agent-twitter-client-mcp","stack":"TwitterMcpError: Authentication failed: Cookie authentication failed\n    at AuthenticationManager.getScraper (file:///Users/yanlixing/.hermes/vendor/agent-twitter-client-mcp/node_modules/agent-twitter-client-mcp/build/authentication.js:58:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async performHealthCheck (file:///Users/yanlixing/.hermes/vendor/agent-twitter-client-mcp/node_modules/agent-twitter-client-mcp/build/health.js:16:29)\n    at async startServer (file:///Users/yanlixing/.hermes/vendor/agent-twitter-client-mcp/node_modules/agent-twitter-client-mcp/build/index.js:566:34)","timestamp":"2026-05-18T01:59:24.264Z"}
+{"error":"Authentication failed: Cookie authentication failed","level":"error","message":"Health check authentication error","service":"agent-twitter-client-mcp","stack":"TwitterMcpError: Authentication failed: Cookie authentication failed\n    at AuthenticationManager.getScraper (file:///Users/yanlixing/.hermes/vendor/agent-twitter-client-mcp/node_modules/agent-twitter-client-mcp/build/authentication.js:58:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async performHealthCheck (file:///Users/yanlixing/.hermes/vendor/agent-twitter-client-mcp/node_modules/agent-twitter-client-mcp/build/health.js:16:29)\n    at async startServer (file:///Users/yanlixing/.hermes/vendor/agent-twitter-client-mcp/node_modules/agent-twitter-client-mcp/build/index.js:566:34)","timestamp":"2026-05-18T01:59:53.832Z"}
+{"error":"Authentication failed: Cookie authentication failed","level":"error","message":"Health check authentication error","service":"agent-twitter-client-mcp","stack":"TwitterMcpError: Authentication failed: Cookie authentication failed\n    at AuthenticationManager.getScraper (file:///Users/yanlixing/.hermes/vendor/agent-twitter-client-mcp/node_modules/agent-twitter-client-mcp/build/authentication.js:58:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async performHealthCheck (file:///Users/yanlixing/.hermes/vendor/agent-twitter-client-mcp/node_modules/agent-twitter-client-mcp/build/health.js:16:29)\n    at async startServer (file:///Users/yanlixing/.hermes/vendor/agent-twitter-client-mcp/node_modules/agent-twitter-client-mcp/build/index.js:566:34)","timestamp":"2026-05-18T02:00:08.018Z"}
+[2026-05-18 10:00:18] [zero_items] [2026-05-18] Apple：Newsroom（RSS）: no items matched date/AI filter
+[2026-05-18 10:00:18] [zero_items] [2026-05-18] Simon Willison: no items matched date/AI filter
+[2026-05-18 10:00:19] [zero_items] [2026-05-18] Claude：Blog（网页）: no items matched date/AI filter
+[2026-05-18 10:00:19] [zero_items] [2026-05-18] Interconnects: no items matched date/AI filter
+[2026-05-18 10:00:19] [zero_items] [2026-05-18] Cloudflare Blog: no items matched date/AI filter
+[2026-05-18 10:00:19] [zero_items] [2026-05-18] Runway：News（网页）: no items matched date/AI filter
+[2026-05-18 10:00:19] [fetch_error] [2026-05-18] Apple Machine Learning Research（RSS）: not well-formed (invalid token): line 29, column 66
+[2026-05-18 10:00:19] [zero_items] [2026-05-18] Apple Machine Learning Research（RSS）: no items matched date/AI filter
+[2026-05-18 10:00:19] [zero_items] [2026-05-18] GitHub Blog: no items matched date/AI filter
+[2026-05-18 10:00:19] [zero_items] [2026-05-18] Gary Marcus：The Road to AI We Can Trust（RSS）: no items matched date/AI filter
+[2026-05-18 10:00:19] [zero_items] [2026-05-18] Cursor Blog: no items matched date/AI filter
+[2026-05-18 10:00:19] [zero_items] [2026-05-18] Ethan Mollick：One Useful Thing（RSS）: no items matched date/AI filter
+[2026-05-18 10:00:19] [zero_items] [2026-05-18] Claude Code：GitHub Releases（RSS）: no items matched date/AI filter
+[2026-05-18 10:00:19] [zero_items] [2026-05-18] Google Blog：AI（RSS）: no items matched date/AI filter
+[2026-05-18 10:00:19] [zero_items] [2026-05-18] Meta Engineering Blog（RSS）: no items matched date/AI filter
+[2026-05-18 10:00:20] [zero_items] [2026-05-18] Google DeepMind：Blog（RSS）: no items matched date/AI filter
+[2026-05-18 10:00:20] [zero_items] [2026-05-18] Hugging Face：Blog（RSS）: no items matched date/AI filter
+[2026-05-18 10:00:20] [zero_items] [2026-05-18] Nathan Lambert：Interconnects（RSS）: no items matched date/AI filter
+[2026-05-18 10:00:20] [zero_items] [2026-05-18] Google Research：Blog（网页）: no items matched date/AI filter
+[2026-05-18 10:00:20] [zero_items] [2026-05-18] BAIR：Berkeley AI Research Blog: no items matched date/AI filter
+[2026-05-18 10:00:20] [zero_items] [2026-05-18] Google Developers Blog（RSS）: no items matched date/AI filter
+[2026-05-18 10:00:20] [fetch_error] [2026-05-18] OpenRouter：Announcements（RSS）: not well-formed (invalid token): line 127, column 183
+[2026-05-18 10:00:20] [zero_items] [2026-05-18] OpenRouter：Announcements（RSS）: no items matched date/AI filter
+[2026-05-18 10:00:20] [zero_items] [2026-05-18] Mistral AI：News（网页）: no items matched date/AI filter
+[2026-05-18 10:00:21] [zero_items] [2026-05-18] X：Claude Devs (@ClaudeDevs): no items matched date/AI filter
+[2026-05-18 10:00:21] [zero_items] [2026-05-18] X：Sam Altman (@sama): no items matched date/AI filter
+[2026-05-18 10:00:21] [zero_items] [2026-05-18] X：Google DeepMind (@GoogleDeepMind): no items matched date/AI filter
+[2026-05-18 10:00:21] [zero_items] [2026-05-18] X：Andrej Karpathy (@karpathy): no items matched date/AI filter
+[2026-05-18 10:00:21] [zero_items] [2026-05-18] X：Demis Hassabis (@demishassabis): no items matched date/AI filter
+[2026-05-18 10:00:21] [zero_items] [2026-05-18] X：DeepSeek (@deepseek_ai): no items matched date/AI filter
+[2026-05-18 10:00:21] [zero_items] [2026-05-18] X：Jim Fan (@DrJimFan): no items matched date/AI filter
+[2026-05-18 10:00:22] [zero_items] [2026-05-18] Nature：Machine Learning 主题（RSS）: no items matched date/AI filter
+[2026-05-18 10:00:22] [fetch_error] [2026-05-18] X：宝玉 (@dotey): not well-formed (invalid token): line 145, column 3
+[2026-05-18 10:00:22] [zero_items] [2026-05-18] X：宝玉 (@dotey): no items matched date/AI filter
+[2026-05-18 10:00:23] [zero_items] [2026-05-18] LMSYS：Blog（Chatbot Arena 团队）: no items matched date/AI filter
+[2026-05-18 10:00:23] [zero_items] [2026-05-18] X：OpenRouter (@OpenRouter): no items matched date/AI filter
+[2026-05-18 10:00:23] [fetch_error] [2026-05-18] OpenAI：Alignment 研究博客（RSS）: syntax error: line 1, column 0
+[2026-05-18 10:00:23] [zero_items] [2026-05-18] OpenAI：Alignment 研究博客（RSS）: no items matched date/AI filter
+[2026-05-18 10:00:26] [zero_items] [2026-05-18] Anthropic：Newsroom（网页）: no items matched date/AI filter
+[2026-05-20 18:31:10] [zero_items] [2026-05-20] Apple：Newsroom（RSS）: no items matched date/AI filter
+[2026-05-20 18:31:10] [zero_items] [2026-05-20] Runway：News（网页）: no items matched date/AI filter
+[2026-05-20 18:31:10] [zero_items] [2026-05-20] Claude：Blog（网页）: no items matched date/AI filter
+[2026-05-20 18:31:10] [zero_items] [2026-05-20] Interconnects: no items matched date/AI filter
+[2026-05-20 18:31:10] [fetch_error] [2026-05-20] Apple Machine Learning Research（RSS）: not well-formed (invalid token): line 29, column 66
+[2026-05-20 18:31:10] [zero_items] [2026-05-20] Ethan Mollick：One Useful Thing（RSS）: no items matched date/AI filter
+[2026-05-20 18:31:10] [zero_items] [2026-05-20] Apple Machine Learning Research（RSS）: no items matched date/AI filter
+[2026-05-20 18:31:10] [zero_items] [2026-05-20] Gary Marcus：The Road to AI We Can Trust（RSS）: no items matched date/AI filter
+[2026-05-20 18:31:10] [zero_items] [2026-05-20] Cursor Blog: no items matched date/AI filter
+[2026-05-20 18:31:10] [zero_items] [2026-05-20] GitHub Blog: no items matched date/AI filter
+[2026-05-20 18:31:10] [zero_items] [2026-05-20] Claude Code：GitHub Releases（RSS）: no items matched date/AI filter
+[2026-05-20 18:31:11] [zero_items] [2026-05-20] Hugging Face：Blog（RSS）: no items matched date/AI filter
+[2026-05-20 18:31:11] [zero_items] [2026-05-20] Meta Engineering Blog（RSS）: no items matched date/AI filter
+[2026-05-20 18:31:11] [zero_items] [2026-05-20] Google Research：Blog（网页）: no items matched date/AI filter
+[2026-05-20 18:31:11] [zero_items] [2026-05-20] Google Developers Blog（RSS）: no items matched date/AI filter
+[2026-05-20 18:31:11] [zero_items] [2026-05-20] BAIR：Berkeley AI Research Blog: no items matched date/AI filter
+[2026-05-20 18:31:11] [zero_items] [2026-05-20] Nathan Lambert：Interconnects（RSS）: no items matched date/AI filter
+[2026-05-20 18:31:11] [zero_items] [2026-05-20] Mistral AI：News（网页）: no items matched date/AI filter
+[2026-05-20 18:31:12] [fetch_error] [2026-05-20] OpenRouter：Announcements（RSS）: not well-formed (invalid token): line 127, column 183
+[2026-05-20 18:31:12] [zero_items] [2026-05-20] OpenRouter：Announcements（RSS）: no items matched date/AI filter
+[2026-05-20 18:31:13] [zero_items] [2026-05-20] X：Jim Fan (@DrJimFan): no items matched date/AI filter
+[2026-05-20 18:31:13] [zero_items] [2026-05-20] X：DeepSeek (@deepseek_ai): no items matched date/AI filter
+[2026-05-20 18:31:14] [zero_items] [2026-05-20] X：宝玉 (@dotey): no items matched date/AI filter
+[2026-05-20 18:31:15] [zero_items] [2026-05-20] LMSYS：Blog（Chatbot Arena 团队）: no items matched date/AI filter
+[2026-05-20 18:31:15] [fetch_error] [2026-05-20] OpenAI：Alignment 研究博客（RSS）: syntax error: line 1, column 0
+[2026-05-20 18:31:15] [zero_items] [2026-05-20] OpenAI：Alignment 研究博客（RSS）: no items matched date/AI filter

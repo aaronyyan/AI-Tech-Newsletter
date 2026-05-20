@@ -1,0 +1,2871 @@
+{
+  "Alibaba：GitHub 新仓库": {
+    "source_label": "Alibaba：GitHub 新仓库",
+    "source_kind": "unknown",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-23"
+    ],
+    "sample_links": [
+      "https://github.com/alibaba/OSWorld"
+    ],
+    "sample_titles": [
+      "alibaba/OSWorld"
+    ]
+  },
+  "Anthropic：Newsroom（网页）": {
+    "source_label": "Anthropic：Newsroom（网页）",
+    "source_kind": "web",
+    "origin_type": "官方",
+    "selection_rule": "seen on home timeline",
+    "evidence_pages": [
+      "daily-2026-04-25",
+      "daily-2026-04-27",
+      "daily-2026-04-29",
+      "daily-2026-05-05",
+      "daily-2026-05-06",
+      "daily-2026-05-07",
+      "daily-2026-05-14",
+      "daily-latest",
+      "home"
+    ],
+    "sample_links": [
+      "https://www.anthropic.com/news/claude-for-small-business",
+      "https://www.anthropic.com/news/election-safeguards-update",
+      "https://www.anthropic.com/news/anthropic-nec",
+      "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
+      "https://www.anthropic.com/news/claude-for-creative-work"
+    ],
+    "sample_titles": [
+      "Anthropic推出面向小型企业的Claude服务包",
+      "关于我们选举保障措施的更新",
+      "Anthropic与NEC合作，共建日本最大AI工程团队",
+      "Anthropic 任命澳新总经理并正式开设悉尼办公室",
+      "Claude创意工作套件"
+    ]
+  },
+  "Anthropic：Research（发表成果 · 网页）": {
+    "source_label": "Anthropic：Research（发表成果 · 网页）",
+    "source_kind": "web",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-22",
+      "daily-2026-04-29",
+      "daily-2026-04-30",
+      "daily-2026-05-08",
+      "daily-2026-05-09"
+    ],
+    "sample_links": [
+      "https://www.anthropic.com/research/economic-index-survey-announcement",
+      "https://www.anthropic.com/research/Evaluating-Claude-For-Bioinformatics-With-BioMysteryBench",
+      "https://www.anthropic.com/research/claude-personal-guidance",
+      "https://www.anthropic.com/research/donating-open-source-petri",
+      "https://www.anthropic.com/research/natural-language-autoencoders"
+    ],
+    "sample_titles": [
+      "Anthropic经济指数调查正式启动",
+      "使用BioMysteryBench评估Claude的生物信息学研究能力",
+      "用户如何向Claude寻求个人生活指导及其模型优化",
+      "捐赠开源对齐工具 Petri",
+      "自然语言自编码器：将Claude的“想法”解码为文本"
+    ]
+  },
+  "Apple Machine Learning Research（RSS）": {
+    "source_label": "Apple Machine Learning Research（RSS）",
+    "source_kind": "rss",
+    "origin_type": "学术机构",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-25",
+      "daily-2026-04-29",
+      "daily-2026-04-30",
+      "daily-2026-05-01",
+      "daily-2026-05-02",
+      "daily-2026-05-05",
+      "daily-2026-05-06",
+      "daily-2026-05-07",
+      "daily-2026-05-08",
+      "daily-2026-05-09",
+      "daily-2026-05-12"
+    ],
+    "sample_links": [
+      "https://machinelearning.apple.com/research/long-term-motion-embeddings",
+      "https://machinelearning.apple.com/research/ladir",
+      "https://machinelearning.apple.com/research/adaptive-thinking",
+      "https://machinelearning.apple.com/research/direct-steering-optimization",
+      "https://machinelearning.apple.com/updates/apple-at-icassp-2026"
+    ],
+    "sample_titles": [
+      "Learning Long-Term Motion Embeddings for Efficient Kinematics Generation",
+      "LaDiR：潜在扩散模型增强 LLM 的文本推理能力",
+      "Adaptive Thinking: 大型语言模型知道何时在潜在空间中思考",
+      "DSO: 用于缓解偏见的直接引导优化",
+      "国际声学、语音与信号处理会议 (ICASSP) 2026"
+    ]
+  },
+  "Apple：Newsroom（RSS）": {
+    "source_label": "Apple：Newsroom（RSS）",
+    "source_kind": "rss",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-06",
+      "daily-2026-05-08"
+    ],
+    "sample_links": [
+      "https://www.apple.com/newsroom/2026/05/apple-manufacturing-academy-accelerates-ai-use-in-us-supply-chains",
+      "https://www.apple.com/newsroom/2026/05/ai-meets-accessibility-in-this-years-swift-student-challenge"
+    ],
+    "sample_titles": [
+      "Apple Manufacturing Academy 加速 AI 在美国供应链中的应用",
+      "AI 与无障碍技术在今年 Swift Student Challenge 中的相遇"
+    ]
+  },
+  "BAIR：Berkeley AI Research Blog": {
+    "source_label": "BAIR：Berkeley AI Research Blog",
+    "source_kind": "web",
+    "origin_type": "学术机构",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-09"
+    ],
+    "sample_links": [
+      "http://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning"
+    ],
+    "sample_titles": [
+      "自适应并行推理：高效推理扩展的新范式"
+    ]
+  },
+  "Berkeley RDI：Blog（AI 安全与评测）": {
+    "source_label": "Berkeley RDI：Blog（AI 安全与评测）",
+    "source_kind": "web",
+    "origin_type": "博客",
+    "selection_rule": "seen on home timeline",
+    "evidence_pages": [
+      "daily-2026-05-14",
+      "daily-latest",
+      "home"
+    ],
+    "sample_links": [
+      "https://rdi.berkeley.edu/blog/exploitgym"
+    ],
+    "sample_titles": [
+      "ExploitGym：AI智能体能否将安全漏洞转化为真实攻击？"
+    ]
+  },
+  "Claude Code：GitHub Releases（RSS）": {
+    "source_label": "Claude Code：GitHub Releases（RSS）",
+    "source_kind": "rss",
+    "origin_type": "RSS",
+    "selection_rule": "seen on home timeline",
+    "evidence_pages": [
+      "all",
+      "daily-2026-04-24",
+      "daily-2026-05-02",
+      "daily-2026-05-09",
+      "daily-2026-05-10",
+      "daily-2026-05-12",
+      "home"
+    ],
+    "sample_links": [
+      "https://github.com/anthropics/claude-code/releases/tag/v2.1.141",
+      "https://github.com/anthropics/claude-code/releases/tag/v2.1.119",
+      "https://github.com/anthropics/claude-code/releases/tag/v2.1.126",
+      "https://github.com/anthropics/claude-code/releases/tag/v2.1.136",
+      "https://github.com/anthropics/claude-code/releases/tag/v2.1.137"
+    ],
+    "sample_titles": [
+      "Claude 工具 v2.1.141 版本更新",
+      "Claude 代码工具 v2.1.119 版本更新",
+      "Claude Desktop v2.1.126 版本更新",
+      "v2.1.136",
+      "v2.1.137"
+    ]
+  },
+  "Claude：Blog（网页）": {
+    "source_label": "Claude：Blog（网页）",
+    "source_kind": "web",
+    "origin_type": "博客",
+    "selection_rule": "seen on home timeline",
+    "evidence_pages": [
+      "daily-2026-04-22",
+      "daily-2026-04-23",
+      "daily-2026-04-28",
+      "daily-2026-04-29",
+      "daily-2026-04-30",
+      "daily-2026-05-01",
+      "daily-2026-05-08",
+      "daily-2026-05-12",
+      "daily-2026-05-13",
+      "daily-2026-05-14",
+      "daily-latest",
+      "home"
+    ],
+    "sample_links": [
+      "https://claude.com/blog/best-practices-for-computer-and-browser-use-with-claude",
+      "https://claude.com/blog/claude-for-the-legal-industry",
+      "https://claude.com/blog/building-agents-that-reach-production-systems-with-mcp",
+      "https://claude.com/blog/claude-managed-agents-memory",
+      "https://claude.com/blog/connectors-for-everyday-life"
+    ],
+    "sample_titles": [
+      "Claude 电脑与浏览器使用的最佳实践",
+      "Claude进军法律行业",
+      "使用MCP构建连接生产系统的智能体",
+      "Claude Managed Agents 的内置记忆功能",
+      "Claude新增日常生活连接器"
+    ]
+  },
+  "Cloudflare Blog": {
+    "source_label": "Cloudflare Blog",
+    "source_kind": "web",
+    "origin_type": "博客",
+    "selection_rule": "seen on home timeline",
+    "evidence_pages": [
+      "daily-2026-05-01",
+      "daily-2026-05-02",
+      "daily-2026-05-08",
+      "home"
+    ],
+    "sample_links": [
+      "https://blog.cloudflare.com/browser-run-containers",
+      "https://blog.cloudflare.com/agents-stripe-projects",
+      "https://blog.cloudflare.com/dynamic-workflows",
+      "https://blog.cloudflare.com/building-for-the-future"
+    ],
+    "sample_titles": [
+      "Browser Run：现基于 Cloudflare Containers 运行，速度更快、扩展性更强",
+      "Agents 现可创建 Cloudflare 账户、购买域名并部署",
+      "Introducing Dynamic Workflows：可随租户流转的持久执行功能",
+      "Building for the future"
+    ]
+  },
+  "Cursor Blog": {
+    "source_label": "Cursor Blog",
+    "source_kind": "web",
+    "origin_type": "博客",
+    "selection_rule": "seen on home timeline",
+    "evidence_pages": [
+      "daily-2026-04-22",
+      "daily-2026-04-24",
+      "daily-2026-04-30",
+      "daily-2026-05-01",
+      "daily-2026-05-09",
+      "home"
+    ],
+    "sample_links": [
+      "https://cursor.com/blog/cloud-agent-development-environments",
+      "https://cursor.com/blog/spacex-model-training",
+      "https://cursor.com/blog/app-stability",
+      "https://cursor.com/blog/nab",
+      "https://cursor.com/blog/typescript-sdk"
+    ],
+    "sample_titles": [
+      "为智能体配置开发环境",
+      "Cursor与SpaceX就模型训练达成合作",
+      "保持 Cursor 应用稳定",
+      "澳大利亚国民银行采用 Cursor 加速遗留系统现代化改造",
+      "使用 Cursor SDK 构建可编程智能体"
+    ]
+  },
+  "DeepSeek：GitHub 新仓库": {
+    "source_label": "DeepSeek：GitHub 新仓库",
+    "source_kind": "unknown",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-01"
+    ],
+    "sample_links": [
+      "https://github.com/deepseek-ai/Thinking-with-Visual-Primitives"
+    ],
+    "sample_titles": [
+      "DeepSeek团队提出“视觉基元思维”新范式，解决多模态模型空间推理指代鸿沟"
+    ]
+  },
+  "Ethan Mollick：One Useful Thing（RSS）": {
+    "source_label": "Ethan Mollick：One Useful Thing（RSS）",
+    "source_kind": "rss",
+    "origin_type": "大咖博客",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-24"
+    ],
+    "sample_links": [
+      "https://www.oneusefulthing.org/p/sign-of-the-future-gpt-55"
+    ],
+    "sample_titles": [
+      "未来的标志：GPT-5.5"
+    ]
+  },
+  "Gary Marcus：The Road to AI We Can Trust（RSS）": {
+    "source_label": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+    "source_kind": "rss",
+    "origin_type": "大咖博客",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-01",
+      "daily-2026-05-02",
+      "daily-2026-05-03",
+      "daily-2026-05-04"
+    ],
+    "sample_links": [
+      "https://garymarcus.substack.com/p/the-greatest-capital-misallocation",
+      "https://garymarcus.substack.com/p/a-model-that-produces-code-which",
+      "https://garymarcus.substack.com/p/richard-dawkins-and-the-claude-delusion",
+      "https://garymarcus.substack.com/p/have-llms-improved-patient-outcomes"
+    ],
+    "sample_titles": [
+      "史上最大的资本错配？",
+      "能生成通过测试的代码模型，不等于能产出正确、安全、可维护、架构良好软件的模型",
+      "Richard Dawkins 与 Claude 妄想",
+      "大语言模型（LLMs）是否改善了患者治疗结果？"
+    ]
+  },
+  "GitHub Blog": {
+    "source_label": "GitHub Blog",
+    "source_kind": "web",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-28",
+      "daily-2026-05-01",
+      "daily-2026-05-05",
+      "daily-2026-05-08"
+    ],
+    "sample_links": [
+      "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing",
+      "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode",
+      "https://github.blog/open-source/register-now-for-openclaw-after-hours-github",
+      "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them"
+    ],
+    "sample_titles": [
+      "GitHub Copilot 将转向基于使用量的计费模式",
+      "GitHub Copilot CLI 入门指南：交互模式与非交互模式",
+      "立即注册 OpenClaw: After Hours @ GitHub",
+      "Agent pull requests 无处不在：如何审查它们"
+    ]
+  },
+  "Google Blog：AI（RSS）": {
+    "source_label": "Google Blog：AI（RSS）",
+    "source_kind": "rss",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-24",
+      "daily-2026-04-25",
+      "daily-2026-05-05",
+      "daily-2026-05-09"
+    ],
+    "sample_links": [
+      "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu",
+      "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks",
+      "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026",
+      "https://blog.google/company-news/inside-google/company-announcements/the-small-brief"
+    ],
+    "sample_titles": [
+      "我们的TPUs如何为日益苛刻的AI工作负载提供动力",
+      "8 个使用 Gemini 整理空间（与生活）的技巧",
+      "通过 Gemini API 中的 Webhooks 减少长时任务的摩擦与延迟",
+      "谷歌发布2026年4月AI重要更新",
+      "看创意传奇人物如何用AI为小企业制作广告"
+    ]
+  },
+  "Google DeepMind：Blog（RSS）": {
+    "source_label": "Google DeepMind：Blog（RSS）",
+    "source_kind": "rss",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-23",
+      "daily-2026-05-01"
+    ],
+    "sample_links": [
+      "https://deepmind.google/blog/decoupled-diloco",
+      "https://deepmind.google/blog/ai-co-clinician"
+    ],
+    "sample_titles": [
+      "解耦式DiLoCo：分布式AI训练的新前沿",
+      "以AI联合临床医生开启医疗保健新模式"
+    ]
+  },
+  "Google Developers Blog（RSS）": {
+    "source_label": "Google Developers Blog（RSS）",
+    "source_kind": "rss",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-22",
+      "daily-2026-04-24",
+      "daily-2026-04-30",
+      "daily-2026-05-04",
+      "daily-2026-05-13"
+    ],
+    "sample_links": [
+      "https://developers.googleblog.com/build-long-running-ai-agents-that-pause-resume-and-never-lose-context-with-adk",
+      "https://developers.googleblog.com/production-ready-ai-agents-5-lessons-from-refactoring-a-monolith",
+      "https://developers.googleblog.com/building-real-world-on-device-ai-with-litert-and-npu",
+      "https://developers.googleblog.com/building-with-gemini-embedding-2",
+      "https://developers.googleblog.com/supercharging-llm-inference-on-google-tpus-achieving-3x-speedups-with-diffusion-style-speculative-decoding"
+    ],
+    "sample_titles": [
+      "使用ADK构建可暂停、恢复且永不丢失上下文的长时运行AI智能体",
+      "构建生产级AI智能体：从单体重构中汲取的五大经验",
+      "使用 LiteRT 与 NPU 构建现实世界中的设备端人工智能",
+      "基于Gemini Embedding 2构建：智能多模态RAG及其他应用",
+      "在谷歌TPU上实现3倍加速：UCSD利用扩散式推测解码优化LLM推理"
+    ]
+  },
+  "Google Research：Blog（网页）": {
+    "source_label": "Google Research：Blog（网页）",
+    "source_kind": "web",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-29",
+      "daily-2026-05-01"
+    ],
+    "sample_links": [
+      "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance",
+      "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources"
+    ],
+    "sample_titles": [
+      "谷歌研究团队应用实证研究辅助工具的四个领域",
+      "通过全球合作与开放资源催化科学影响力"
+    ]
+  },
+  "Hacker News 热门（buzzing.cc 中文翻译）": {
+    "source_label": "Hacker News 热门（buzzing.cc 中文翻译）",
+    "source_kind": "web",
+    "origin_type": "综合资讯",
+    "selection_rule": "seen on all timeline",
+    "evidence_pages": [
+      "all",
+      "daily-2026-04-25",
+      "daily-2026-04-27",
+      "daily-2026-04-28",
+      "daily-2026-04-29",
+      "daily-2026-05-03",
+      "daily-2026-05-04",
+      "daily-2026-05-05",
+      "daily-2026-05-06",
+      "daily-2026-05-07",
+      "daily-2026-05-08",
+      "daily-2026-05-10",
+      "daily-2026-05-13"
+    ],
+    "sample_links": [
+      "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+      "https://news.ycombinator.com/item?id=48128003",
+      "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+      "https://api-docs.deepseek.com/",
+      "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified"
+    ],
+    "sample_titles": [
+      "Meta 不允许你在 Threads 上屏蔽其 AI 账号",
+      "Tell HN： 不要使用Claude Design，取消订阅后我无法访问自己的项目了",
+      "谷歌表示，犯罪黑客利用人工智能发现了一个重大的软件漏洞",
+      "DeepSeek v4",
+      "为什么 SWE-bench Verified 不再衡量前沿编码能力"
+    ]
+  },
+  "Hacker News：AI 热帖": {
+    "source_label": "Hacker News：AI 热帖",
+    "source_kind": "web",
+    "origin_type": "综合资讯",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-13"
+    ],
+    "sample_links": [
+      "https://github.com/statewright/statewright"
+    ],
+    "sample_titles": [
+      "展示 HN：Statewright——通过可视化状态机提升AI智能体可靠性"
+    ]
+  },
+  "Hugging Face：Blog（RSS）": {
+    "source_label": "Hugging Face：Blog（RSS）",
+    "source_kind": "rss",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-22",
+      "daily-2026-04-24",
+      "daily-2026-04-29",
+      "daily-2026-04-30",
+      "daily-2026-05-09",
+      "daily-2026-05-10",
+      "daily-2026-05-11"
+    ],
+    "sample_links": [
+      "https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard",
+      "https://huggingface.co/blog/transformersjs-chrome-extension",
+      "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+      "https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging",
+      "https://huggingface.co/blog/evaleval/eval-costs-bottleneck"
+    ],
+    "sample_titles": [
+      "QIMMA：一个质量优先的阿拉伯语大语言模型排行榜",
+      "如何在 Chrome 扩展中使用 Transformers.js",
+      "介绍 NVIDIA Nemotron 3 Nano Omni：面向文档、音频和视频智能体的长上下文多模态模型",
+      "Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI",
+      "AI评估正成为新的算力瓶颈"
+    ]
+  },
+  "Hugging Face：GitHub 新仓库": {
+    "source_label": "Hugging Face：GitHub 新仓库",
+    "source_kind": "unknown",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-24",
+      "daily-2026-04-25",
+      "daily-2026-04-28"
+    ],
+    "sample_links": [
+      "https://github.com/huggingface/post-training-takehome",
+      "https://github.com/huggingface/hlh-server",
+      "https://github.com/huggingface/hf-sandbox"
+    ],
+    "sample_titles": [
+      "huggingface/后训练实习生家庭作业挑战",
+      "huggingface/hlh-server 独立私有服务器仓库",
+      "Hugging Face推出hf-sandbox：基于Jobs的Modal风格沙盒API"
+    ]
+  },
+  "HuggingFace Daily Papers（社区热门论文）": {
+    "source_label": "HuggingFace Daily Papers（社区热门论文）",
+    "source_kind": "unknown",
+    "origin_type": "综合资讯",
+    "selection_rule": "seen on home timeline",
+    "evidence_pages": [
+      "daily-2026-04-22",
+      "daily-2026-04-25",
+      "daily-2026-04-30",
+      "daily-2026-05-05",
+      "daily-2026-05-06",
+      "home"
+    ],
+    "sample_links": [
+      "https://arxiv.org/abs/2605.12466",
+      "https://arxiv.org/abs/2604.18580",
+      "https://arxiv.org/abs/2604.22748",
+      "https://arxiv.org/abs/2604.27085",
+      "https://arxiv.org/abs/2605.02881"
+    ],
+    "sample_titles": [
+      "解决循环：语言和推理的吸引子模型",
+      "Sessa：选择性状态空间注意力",
+      "能动世界建模：基础、能力、法则与超越",
+      "基于RoundPipe在消费级多GPU上实现高效训练",
+      "MolmoAct2：面向真实世界部署的动作推理模型"
+    ]
+  },
+  "IT之家（RSS）": {
+    "source_label": "IT之家（RSS）",
+    "source_kind": "rss",
+    "origin_type": "RSS",
+    "selection_rule": "seen on home timeline",
+    "evidence_pages": [
+      "all",
+      "daily-2026-04-24",
+      "daily-2026-04-25",
+      "daily-2026-04-27",
+      "daily-2026-04-28",
+      "daily-2026-04-29",
+      "daily-2026-05-01",
+      "daily-2026-05-03",
+      "daily-2026-05-05",
+      "daily-2026-05-06",
+      "daily-2026-05-07",
+      "daily-2026-05-08",
+      "daily-2026-05-09",
+      "daily-2026-05-10",
+      "daily-2026-05-12",
+      "daily-2026-05-13",
+      "daily-2026-05-14",
+      "daily-latest",
+      "home"
+    ],
+    "sample_links": [
+      "https://www.ithome.com/0/949/715.htm",
+      "https://www.ithome.com/0/950/100.htm",
+      "https://www.ithome.com/0/950/109.htm",
+      "https://www.ithome.com/0/950/076.htm",
+      "https://www.ithome.com/0/950/080.htm"
+    ],
+    "sample_titles": [
+      "消息称 Anthropic 正就以超 9000 亿美元投前估值筹集至少 300 亿美元谈判",
+      "雷军谈小米自动驾驶模型 Xiaomi OneVL：业内率先通过潜空间推理将 VLA、世界模型统一到一套框架",
+      "消息称 AI 芯片企业 Cerebras 曾拒绝 Arm 和软银的收购兴趣",
+      "消息称苹果评估 AI 编程类应用入驻方案，担心恶意软件与收入流失",
+      "IT早报 0514：马化腾回应腾讯 AI 是否落后；SK 海力士中国员工奖金引争议；小米 17 Max 本月发布"
+    ]
+  },
+  "LMSYS：Blog（Chatbot Arena 团队）": {
+    "source_label": "LMSYS：Blog（Chatbot Arena 团队）",
+    "source_kind": "web",
+    "origin_type": "学术机构",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-25",
+      "daily-2026-04-29"
+    ],
+    "sample_links": [
+      "https://www.lmsys.org/blog/2026-04-25-deepseek-v4",
+      "https://www.lmsys.org/blog/2026-04-29-p2p-update"
+    ],
+    "sample_titles": [
+      "SGLang与Miles在发布首日为DeepSeek-V4提供全栈支持",
+      "秒级更新万亿参数——大规模分布式强化学习中的点对点权重传输技术"
+    ]
+  },
+  "Meta Engineering Blog（RSS）": {
+    "source_label": "Meta Engineering Blog（RSS）",
+    "source_kind": "rss",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-22"
+    ],
+    "sample_links": [
+      "https://engineering.fb.com/2026/04/21/ml-applications/modernizing-the-facebook-groups-search-to-unlock-the-power-of-community-knowledge"
+    ],
+    "sample_titles": [
+      "现代化改造 Facebook Groups Search，释放社区知识的力量"
+    ]
+  },
+  "Microsoft：GitHub 新仓库": {
+    "source_label": "Microsoft：GitHub 新仓库",
+    "source_kind": "unknown",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-23",
+      "daily-2026-04-24",
+      "daily-2026-04-25"
+    ],
+    "sample_links": [
+      "https://github.com/microsoft/amplifier-module-provider-chat-completions",
+      "https://github.com/microsoft/enhanced-task-completion",
+      "https://github.com/microsoft/github-copilot-canada"
+    ],
+    "sample_titles": [
+      "microsoft/amplifier-module-provider-chat-completions",
+      "微软增强型任务完成示例项目",
+      "微软/GitHub Copilot-加拿大"
+    ]
+  },
+  "Mistral AI：News（网页）": {
+    "source_label": "Mistral AI：News（网页）",
+    "source_kind": "web",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-27",
+      "daily-2026-04-29"
+    ],
+    "sample_links": [
+      "https://mistral.ai/news/workflows",
+      "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5"
+    ],
+    "sample_titles": [
+      "Mistral AI 发布 Workflows 公开预览版，为企业AI工作流提供编排支持",
+      "Mistral AI发布Mistral Medium 3.5模型及Vibe远程编程智能体"
+    ]
+  },
+  "Nathan Lambert：Interconnects（RSS）": {
+    "source_label": "Nathan Lambert：Interconnects（RSS）",
+    "source_kind": "rss",
+    "origin_type": "大咖博客",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-13"
+    ],
+    "sample_links": [
+      "https://www.interconnects.ai/p/how-open-model-ecosystems-compound"
+    ],
+    "sample_titles": [
+      "开放模型生态的复合增长"
+    ]
+  },
+  "Nature：Machine Learning 主题（RSS）": {
+    "source_label": "Nature：Machine Learning 主题（RSS）",
+    "source_kind": "rss",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-22",
+      "daily-2026-04-23",
+      "daily-2026-04-24",
+      "daily-2026-04-25",
+      "daily-2026-04-26",
+      "daily-2026-04-28",
+      "daily-2026-04-29"
+    ],
+    "sample_links": [
+      "https://www.nature.com/articles/s42256-026-01223-x",
+      "https://www.nature.com/articles/d41586-026-01257-6",
+      "https://www.nature.com/articles/s41597-026-07176-5",
+      "https://www.nature.com/articles/d41586-026-01343-9",
+      "https://www.nature.com/articles/s41467-026-71759-4"
+    ],
+    "sample_titles": [
+      "基于预训练二级结构模型和结构感知注意力的RNA三维结构及构象体预测",
+      "AI末日警告甚嚣尘上，这些担忧现实吗？",
+      "欧洲夜间迁徙鸟类声学监测的开放数据集",
+      "这款机器人能在乒乓球桌上击败你",
+      "CellNiche：基于对比学习的图谱级空间组学细胞微环境表征框架"
+    ]
+  },
+  "Nous Research：GitHub 新仓库": {
+    "source_label": "Nous Research：GitHub 新仓库",
+    "source_kind": "unknown",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-22",
+      "daily-2026-04-25",
+      "daily-2026-04-28"
+    ],
+    "sample_links": [
+      "https://github.com/NousResearch/tinker-nemogym",
+      "https://github.com/NousResearch/Anonymizer",
+      "https://github.com/NousResearch/NemoClaw",
+      "https://github.com/NousResearch/Nemotron"
+    ],
+    "sample_titles": [
+      "NousResearch/tinker-nemogym",
+      "NousResearch/Anonymizer",
+      "NousResearch/NemoClaw：在 NVIDIA OpenShell 中通过托管推理更安全地运行 OpenClaw",
+      "NousResearch/Nemotron"
+    ]
+  },
+  "OpenAI：Alignment 研究博客（RSS）": {
+    "source_label": "OpenAI：Alignment 研究博客（RSS）",
+    "source_kind": "rss",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-24"
+    ],
+    "sample_links": [
+      "https://alignment.openai.com/monitorability-evals"
+    ],
+    "sample_titles": [
+      "开源可监控性评估"
+    ]
+  },
+  "OpenAI：GitHub 新仓库": {
+    "source_label": "OpenAI：GitHub 新仓库",
+    "source_kind": "unknown",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-23"
+    ],
+    "sample_links": [
+      "https://github.com/openai/monitorability-evals"
+    ],
+    "sample_titles": [
+      "OpenAI/可监控性评估"
+    ]
+  },
+  "OpenAI：官网动态（RSS · 排除企业/客户案例）": {
+    "source_label": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+    "source_kind": "rss",
+    "origin_type": "官方",
+    "selection_rule": "seen on home timeline",
+    "evidence_pages": [
+      "daily-2026-04-22",
+      "daily-2026-04-23",
+      "daily-2026-04-24",
+      "daily-2026-04-27",
+      "daily-2026-04-28",
+      "daily-2026-04-29",
+      "daily-2026-04-30",
+      "daily-2026-05-05",
+      "daily-2026-05-06",
+      "daily-2026-05-07",
+      "daily-2026-05-08",
+      "daily-2026-05-09",
+      "daily-2026-05-12",
+      "daily-2026-05-13",
+      "home"
+    ],
+    "sample_links": [
+      "https://openai.com/index/building-codex-windows-sandbox",
+      "https://openai.com/index/what-parameter-golf-taught-us",
+      "https://openai.com/index/introducing-chatgpt-images-2-0",
+      "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "https://openai.com/index/introducing-gpt-5-5"
+    ],
+    "sample_titles": [
+      "在 Windows 上构建安全有效的沙箱以启用 Codex",
+      "Parameter Golf 揭示了关于 AI 辅助研究的哪些经验",
+      "ChatGPT Images 2.0 发布",
+      "ChatGPT 推出 Workspace Agents",
+      "GPT-5.5正式发布"
+    ]
+  },
+  "OpenBMB（清华 NLP）：GitHub 新仓库": {
+    "source_label": "OpenBMB（清华 NLP）：GitHub 新仓库",
+    "source_kind": "unknown",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-22"
+    ],
+    "sample_links": [
+      "https://github.com/OpenBMB/Vype"
+    ],
+    "sample_titles": [
+      "OpenBMB/Vype：适用于所有主流平台的ASR+LLM智能输入法"
+    ]
+  },
+  "OpenRouter：Announcements（RSS）": {
+    "source_label": "OpenRouter：Announcements（RSS）",
+    "source_kind": "rss",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-25",
+      "daily-2026-04-30",
+      "daily-2026-05-01",
+      "daily-2026-05-08"
+    ],
+    "sample_links": [
+      "https://openrouter.ai/announcements/agent-sdk-with-callmodel",
+      "https://openrouter.ai/announcements/create-agent-harness-with-agent-sdk",
+      "https://openrouter.ai/announcements/openrouter-on-stripe-projects",
+      "https://openrouter.ai/announcements/response-caching",
+      "https://openrouter.ai/announcements/agentic-web-tools"
+    ],
+    "sample_titles": [
+      "Agent SDK：在 OpenRouter 上构建多轮智能体工作流",
+      "使用 Agent SDK 构建你自己的 Harness",
+      "通过 Stripe Projects 命令行创建 OpenRouter 账户",
+      "Response Caching：相同请求零成本",
+      "为所有模型提供一致的网络搜索与抓取能力"
+    ]
+  },
+  "Qwen：Blog Retrieval（API）": {
+    "source_label": "Qwen：Blog Retrieval（API）",
+    "source_kind": "web",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-29"
+    ],
+    "sample_links": [
+      "https://qwen.ai/blog?id=flashqla"
+    ],
+    "sample_titles": [
+      "FlashQLA: 面向GDN的CP-/Bwd友好型融合线性注意力内核"
+    ]
+  },
+  "Runway：Changelog（网页）": {
+    "source_label": "Runway：Changelog（网页）",
+    "source_kind": "web",
+    "origin_type": "官方",
+    "selection_rule": "seen on home timeline",
+    "evidence_pages": [
+      "daily-2026-05-14",
+      "daily-latest",
+      "home"
+    ],
+    "sample_links": [
+      "https://app.runwayml.com/agent"
+    ],
+    "sample_titles": [
+      "Runway Agent"
+    ]
+  },
+  "Runway：News（网页）": {
+    "source_label": "Runway：News（网页）",
+    "source_kind": "web",
+    "origin_type": "官方",
+    "selection_rule": "seen on home timeline",
+    "evidence_pages": [
+      "daily-2026-04-27",
+      "daily-2026-05-04",
+      "daily-2026-05-09",
+      "daily-2026-05-14",
+      "daily-latest",
+      "home"
+    ],
+    "sample_links": [
+      "https://runwayml.com/news/introducing-runway-agent",
+      "https://runwayml.com/news/no-idle-gpus-managing-research-compute-at-runway",
+      "https://runwayml.com/news/building-runway-characters",
+      "https://runwayml.com/news/60x-faster-cold-starts-treating-peer-gpus-as-weight-servers",
+      "https://runwayml.com/news/our-approach-to-child-safety"
+    ],
+    "sample_titles": [
+      "Introducing Runway Agent",
+      "无闲置GPU：Runway的研究计算管理",
+      "从单张图像构建实时视频智能体：Runway Characters技术解析",
+      "60倍速冷启动：将同级GPU视为权重服务器",
+      "我们保护儿童安全的方法"
+    ]
+  },
+  "Simon Willison 博客": {
+    "source_label": "Simon Willison 博客",
+    "source_kind": "unknown",
+    "origin_type": "综合资讯",
+    "selection_rule": "seen on all timeline",
+    "evidence_pages": [
+      "all",
+      "daily-2026-04-25",
+      "daily-2026-04-26",
+      "daily-2026-05-05",
+      "daily-2026-05-07",
+      "daily-2026-05-08",
+      "daily-2026-05-09",
+      "daily-2026-05-12"
+    ],
+    "sample_links": [
+      "https://simonwillison.net/2026/May/13/welcome-to-the-datasette-blog",
+      "https://simonwillison.net/2026/Apr/24/deepseek-v4",
+      "https://simonwillison.net/2026/Apr/25/gpt-5-5-prompting-guide",
+      "https://simonwillison.net/2026/May/4/redis-array",
+      "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering"
+    ],
+    "sample_titles": [
+      "欢迎来到 Datasette 博客",
+      "DeepSeek V4发布：性能接近前沿，价格极具竞争力",
+      "GPT-5.5 提示指南",
+      "Redis 数组类型交互式体验平台上线",
+      "编程模式界限模糊：从“感觉编码”到“代理工程”的融合与隐忧"
+    ]
+  },
+  "The Decoder：AI News（RSS）": {
+    "source_label": "The Decoder：AI News（RSS）",
+    "source_kind": "rss",
+    "origin_type": "RSS",
+    "selection_rule": "seen on home timeline",
+    "evidence_pages": [
+      "daily-2026-04-28",
+      "daily-2026-05-01",
+      "daily-2026-05-10",
+      "daily-2026-05-14",
+      "daily-latest",
+      "home"
+    ],
+    "sample_links": [
+      "https://the-decoder.com/anthropic-overtakes-openai-in-b2b-adoption-for-the-first-time-according-to-ramp-spending-data",
+      "https://the-decoder.com/openai-and-microsoft-rewrite-their-deal-no-more-exclusivity-no-more-agi-clause",
+      "https://the-decoder.com/softbank-plans-ipo-for-new-ai-and-robotics-company-valued-at-up-to-100-billion",
+      "https://the-decoder.com/fields-medalist-says-chatgpt-5-5-pro-delivered-phd-level-math-research-in-under-two-hours-with-zero-human-help"
+    ],
+    "sample_titles": [
+      "Anthropic 首次在 B2B 采用率上超越 OpenAI，Ramp 支出数据显示",
+      "OpenAI与微软重写合作协议：取消排他性条款，移除AGI相关约定",
+      "Softbank 计划将估值高达1000亿美元的新AI与机器人公司Roze上市",
+      "菲尔兹奖得主称 ChatGPT 5.5 Pro 在无人帮助下两小时内完成“博士级”数学研究"
+    ]
+  },
+  "Tomer Tunguz 博客（VC 分析）": {
+    "source_label": "Tomer Tunguz 博客（VC 分析）",
+    "source_kind": "unknown",
+    "origin_type": "大咖博客",
+    "selection_rule": "seen on home timeline",
+    "evidence_pages": [
+      "daily-2026-04-25",
+      "daily-2026-04-28",
+      "daily-2026-04-29",
+      "daily-2026-04-30",
+      "daily-2026-05-02",
+      "daily-2026-05-04",
+      "daily-2026-05-09",
+      "home"
+    ],
+    "sample_links": [
+      "https://www.tomtunguz.com/the-disappearance-of-email",
+      "https://www.tomtunguz.com/competitive-strategy-in-ai",
+      "https://www.tomtunguz.com/b200-gpu-pricing-spot-market-model-releases",
+      "https://www.tomtunguz.com/your-margin-is-my-software-opportunity",
+      "https://www.tomtunguz.com/2026-04-29-the-112-billion-quarter-hyperscalers-bet-the-farm-on-ai"
+    ],
+    "sample_titles": [
+      "The 6 Messages That Actually Matter",
+      "AI时代的竞争战略：商品化互补品",
+      "GPU现货价格六周内暴涨114%",
+      "AI销售中的三个核心问题",
+      "2026年Q1云巨头资本支出达1120亿美元，谷歌增长领先"
+    ]
+  },
+  "X：AI Safety Memes (@AISafetyMemes)": {
+    "source_label": "X：AI Safety Memes (@AISafetyMemes)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-01"
+    ],
+    "sample_links": [
+      "https://x.com/AISafetyMemes/status/2049907651287585264"
+    ],
+    "sample_titles": [
+      "英国政府警告：AI网络攻击能力加速远超预期"
+    ]
+  },
+  "X：AYi (@AYi_AInotes)": {
+    "source_label": "X：AYi (@AYi_AInotes)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on all timeline",
+    "evidence_pages": [
+      "all"
+    ],
+    "sample_links": [
+      "https://x.com/AYi_AInotes/status/2054698205527613532"
+    ],
+    "sample_titles": [
+      "孙宇晨：争议烟雾下的投资先知与物理世界转向"
+    ]
+  },
+  "X：Andrej Karpathy (@karpathy)": {
+    "source_label": "X：Andrej Karpathy (@karpathy)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-12"
+    ],
+    "sample_links": [
+      "https://x.com/karpathy/status/2053872850101285137"
+    ],
+    "sample_titles": [
+      "人机交互界面的演进：从文本到交互式神经视频"
+    ]
+  },
+  "X：Anthropic (@AnthropicAI)": {
+    "source_label": "X：Anthropic (@AnthropicAI)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-30",
+      "daily-2026-05-01",
+      "daily-2026-05-06"
+    ],
+    "sample_links": [
+      "https://x.com/AnthropicAI/status/2049576143653929153",
+      "https://x.com/AnthropicAI/status/2049927618397614466",
+      "https://x.com/AnthropicAI/status/2051718308702081047",
+      "https://x.com/AnthropicAI/status/2051758528562364902"
+    ],
+    "sample_titles": [
+      "语言模型内省适配器自述训练行为",
+      "百万对话揭示用户如何向Claude寻求指导",
+      "研究突破：用弱模型监督可防止AI策略性隐藏能力",
+      "新Anthropic Fellows研究：模型规范中期训练（MSM）。 标准的对齐方法通过期望行为的示例来训练AI。但这可能无法泛化到新情境。 MSM通过首先教…"
+    ]
+  },
+  "X：Artificial Analysis (@ArtificialAnlys)": {
+    "source_label": "X：Artificial Analysis (@ArtificialAnlys)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-25"
+    ],
+    "sample_links": [
+      "https://x.com/ArtificialAnlys/status/2047547434809880611"
+    ],
+    "sample_titles": [
+      "DeepSeek V4 Pro登顶GDPval-AA开源模型榜首"
+    ]
+  },
+  "X：Berry Xia (@berryxia)": {
+    "source_label": "X：Berry Xia (@berryxia)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-06",
+      "daily-2026-05-07",
+      "daily-2026-05-08",
+      "daily-2026-05-09",
+      "daily-2026-05-10",
+      "daily-2026-05-12",
+      "daily-2026-05-13",
+      "daily-2026-05-14",
+      "daily-latest"
+    ],
+    "sample_links": [
+      "https://x.com/berryxia/status/2054358231791923392",
+      "https://x.com/berryxia/status/2054420138095694324",
+      "https://x.com/berryxia/status/2054390836721553487",
+      "https://x.com/berryxia/status/2054339265103065156",
+      "https://x.com/berryxia/status/2054176298579468338"
+    ],
+    "sample_titles": [
+      "无需注册付费，Telegram内一键启动AI智能体",
+      "oMLX更新强化苹果端侧AI，本地能力直逼云端",
+      "BenchLoop：本地大模型一键基准测试与排行榜发布",
+      "90%的人在白白浪费“Token”！",
+      "导出消费数据赋能AI Agent个性化服务"
+    ]
+  },
+  "X：Berryxia.AI (@berryxia)": {
+    "source_label": "X：Berryxia.AI (@berryxia)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on home timeline",
+    "evidence_pages": [
+      "home",
+      "all"
+    ],
+    "sample_links": [
+      "https://x.com/berryxia/status/2054420138095694324",
+      "https://x.com/berryxia/status/2054390836721553487",
+      "https://x.com/berryxia/status/2054720500472147974",
+      "https://x.com/berryxia/status/2054707823012147664"
+    ],
+    "sample_titles": [
+      "oMLX更新强化苹果端侧AI，本地能力直逼云端",
+      "BenchLoop：本地大模型一键基准测试与排行榜发布",
+      "AI教父警告：AI已发展出非预期能力，人类须认清形势",
+      "Claude Code周限额提升50%并叠加福利"
+    ]
+  },
+  "X：ChatGPT (@ChatGPTapp)": {
+    "source_label": "X：ChatGPT (@ChatGPTapp)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-01",
+      "daily-2026-05-06"
+    ],
+    "sample_links": [
+      "https://x.com/ChatGPTapp/status/2049942772803891376",
+      "https://x.com/ChatGPTapp/status/2051776032127238266"
+    ],
+    "sample_titles": [
+      "GPT Image 2“笨拙涂鸦”提示词爆红网络",
+      "ChatGPT 现已作为插件在 Excel 和 Google Sheets 中使用。 它可以帮助分析杂乱的数据、编写公式、更新电子表格，并在此过程中解释其操作—…"
+    ]
+  },
+  "X：Chubby♨️ (@kimmonismus)": {
+    "source_label": "X：Chubby♨️ (@kimmonismus)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on home timeline",
+    "evidence_pages": [
+      "home"
+    ],
+    "sample_links": [
+      "https://x.com/kimmonismus/status/2054562237684051974"
+    ],
+    "sample_titles": [
+      "全球首个全AI运营的在线广播电台上线，24小时不间断播报AI动态"
+    ]
+  },
+  "X：Claude (@claudeai)": {
+    "source_label": "X：Claude (@claudeai)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-29",
+      "daily-2026-05-02"
+    ],
+    "sample_links": [
+      "https://x.com/claudeai/status/2049143438281445811",
+      "https://x.com/claudeai/status/2050252933866930339"
+    ],
+    "sample_titles": [
+      "Claude新增Blender连接器赋能创意工作流",
+      "Claude开发者大会下周回归"
+    ]
+  },
+  "X：Claude Devs (@ClaudeDevs)": {
+    "source_label": "X：Claude Devs (@ClaudeDevs)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-29",
+      "daily-2026-05-05",
+      "daily-2026-05-13",
+      "daily-2026-05-14",
+      "daily-latest"
+    ],
+    "sample_links": [
+      "https://x.com/ClaudeDevs/status/2054610152817619388",
+      "https://x.com/ClaudeDevs/status/2054266327771275435",
+      "https://x.com/ClaudeDevs/status/2049154855143649315",
+      "https://x.com/ClaudeDevs/status/2051393709619732758"
+    ],
+    "sample_titles": [
+      "Claude付费计划将提供月度编程使用额度",
+      "Claude Opus 4.7快速模式开放研究预览",
+      "Claude Code新增任务完成手机推送功能",
+      "Claude平台推出无密钥验证方案"
+    ]
+  },
+  "X：Cloudflare Developers (@CloudflareDev)": {
+    "source_label": "X：Cloudflare Developers (@CloudflareDev)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-28"
+    ],
+    "sample_links": [
+      "https://x.com/CloudflareDev/status/2048867075507335569"
+    ],
+    "sample_titles": [
+      "阿里云HappyHorse-1.0模型登陆AI Gateway"
+    ]
+  },
+  "X：DeepSeek (@deepseek_ai)": {
+    "source_label": "X：DeepSeek (@deepseek_ai)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-25",
+      "daily-2026-04-26",
+      "daily-2026-04-27"
+    ],
+    "sample_links": [
+      "https://x.com/deepseek_ai/status/2047516922263285776",
+      "https://x.com/deepseek_ai/status/2048062777357750316",
+      "https://x.com/deepseek_ai/status/2048440764368347611"
+    ],
+    "sample_titles": [
+      "DeepSeek-V4预览版开源，开启百万上下文高性价比时代",
+      "DeepSeek-V4-Pro API限时75折优惠",
+      "DeepSeek输入缓存价格骤降 全系列降至原价1/10"
+    ]
+  },
+  "X：Demis Hassabis (@demishassabis)": {
+    "source_label": "X：Demis Hassabis (@demishassabis)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-13"
+    ],
+    "sample_links": [
+      "https://x.com/demishassabis/status/2054326444189253655",
+      "https://x.com/demishassabis/status/2054197462101889277"
+    ],
+    "sample_titles": [
+      "谷歌AI重塑智能鼠标指针交互",
+      "人工智能首要应用应是改善人类健康"
+    ]
+  },
+  "X：Elon Musk (@elonmusk, xAI)": {
+    "source_label": "X：Elon Musk (@elonmusk, xAI)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-09"
+    ],
+    "sample_links": [
+      "https://x.com/elonmusk/status/2052856431611941200"
+    ],
+    "sample_titles": [
+      "Grok 升级推出全平台连接器功能"
+    ]
+  },
+  "X：Elvis Saravia (@omarsar0, DAIR.AI)": {
+    "source_label": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-28",
+      "daily-2026-05-05"
+    ],
+    "sample_links": [
+      "https://x.com/omarsar0/status/2048802738247450784",
+      "https://x.com/omarsar0/status/2051306659021242635"
+    ],
+    "sample_titles": [
+      "AI智能体编码任务成本高昂且难预测",
+      "Sakana AI提出新型7B“指挥者”模型，通过协同多个智能体实现性能突破"
+    ]
+  },
+  "X：Emad Mostaque (@EMostaque)": {
+    "source_label": "X：Emad Mostaque (@EMostaque)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-14",
+      "daily-latest"
+    ],
+    "sample_links": [
+      "https://x.com/EMostaque/status/2054587062033043799"
+    ],
+    "sample_titles": [
+      "开源psql_bm25s，让PostgreSQL多智能体检索提速23倍"
+    ]
+  },
+  "X：Epoch AI (@EpochAIResearch)": {
+    "source_label": "X：Epoch AI (@EpochAIResearch)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-07",
+      "daily-2026-05-13"
+    ],
+    "sample_links": [
+      "https://x.com/EpochAIResearch/status/2053995435870892048",
+      "https://x.com/EpochAIResearch/status/2052069897530933438"
+    ],
+    "sample_titles": [
+      "FrontierMath评测发现致命错误，将更新修正后分数",
+      "推出领域能力评分与自定义ECI功能"
+    ]
+  },
+  "X：Ethan Mollick (@emollick)": {
+    "source_label": "X：Ethan Mollick (@emollick)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-10",
+      "daily-2026-05-11"
+    ],
+    "sample_links": [
+      "https://x.com/emollick/status/2052924556264796163",
+      "https://x.com/emollick/status/2053490736625029167"
+    ],
+    "sample_titles": [
+      "Claude Mythos评估显示16小时风险时距",
+      "Claude人格化趋势的中期影响"
+    ]
+  },
+  "X：Francois Chollet (@fchollet)": {
+    "source_label": "X：Francois Chollet (@fchollet)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-02",
+      "daily-2026-05-05",
+      "daily-2026-05-10"
+    ],
+    "sample_links": [
+      "https://x.com/fchollet/status/2050300365942493547",
+      "https://x.com/fchollet/status/2051370269445615965",
+      "https://x.com/fchollet/status/2053169711341551936"
+    ],
+    "sample_titles": [
+      "强化学习双刃剑效应：已知领域提升性能，未知领域易致模型幻觉",
+      "《Python深度学习》开放免费在线阅读",
+      "AI放大能动性差异，用户两极分化加剧"
+    ]
+  },
+  "X：Gemini (@GeminiApp)": {
+    "source_label": "X：Gemini (@GeminiApp)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-30",
+      "daily-2026-05-02",
+      "daily-2026-05-05",
+      "daily-2026-05-09"
+    ],
+    "sample_links": [
+      "https://x.com/GeminiApp/status/2049519416698683514",
+      "https://x.com/GeminiApp/status/2050274568053383347",
+      "https://x.com/GeminiApp/status/2051371119567864109",
+      "https://x.com/GeminiApp/status/2052805372050604187"
+    ],
+    "sample_titles": [
+      "Gemini聊天可直接生成多种可下载文件",
+      "为高频聊天主题创建专属笔记本",
+      "创意速成：Nano Banana 2助力产品原型实现",
+      "Gemini笔记本助您高效组织复杂任务"
+    ]
+  },
+  "X：Google DeepMind (@GoogleDeepMind)": {
+    "source_label": "X：Google DeepMind (@GoogleDeepMind)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-02"
+    ],
+    "sample_links": [
+      "https://x.com/GoogleDeepMind/status/2050244179163295985"
+    ],
+    "sample_titles": [
+      "谷歌I/O舞台征集创意编程作品"
+    ]
+  },
+  "X：Greg Brockman (@gdb)": {
+    "source_label": "X：Greg Brockman (@gdb)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-25",
+      "daily-2026-04-30",
+      "daily-2026-05-03",
+      "daily-2026-05-04"
+    ],
+    "sample_links": [
+      "https://x.com/gdb/status/2047752627728060585",
+      "https://x.com/gdb/status/2049315404271469054",
+      "https://x.com/gdb/status/2050637240603205827",
+      "https://x.com/gdb/status/2050972114077843772"
+    ],
+    "sample_titles": [
+      "GPT-5.5正式登陆GitHub Copilot",
+      "Codex超级应用七项核心能力详解",
+      "Codex宠物库Petdex上线开放提交",
+      "Codex推出开源工具，压力测试初创公司创意"
+    ]
+  },
+  "X：Jim Fan (@DrJimFan)": {
+    "source_label": "X：Jim Fan (@DrJimFan)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-09"
+    ],
+    "sample_links": [
+      "https://x.com/DrJimFan/status/2052758642781487237"
+    ],
+    "sample_titles": [
+      "机器人终局：物理AGI路线图与LLM类比"
+    ]
+  },
+  "X：Kim (@kimmonismus)": {
+    "source_label": "X：Kim (@kimmonismus)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-28",
+      "daily-2026-04-29",
+      "daily-2026-05-01",
+      "daily-2026-05-05",
+      "daily-2026-05-06",
+      "daily-2026-05-07",
+      "daily-2026-05-08",
+      "daily-2026-05-11",
+      "daily-2026-05-12",
+      "daily-2026-05-14",
+      "daily-latest"
+    ],
+    "sample_links": [
+      "https://x.com/kimmonismus/status/2054562237684051974",
+      "https://x.com/kimmonismus/status/2054609852094193850",
+      "https://x.com/kimmonismus/status/2048759615500804395",
+      "https://x.com/kimmonismus/status/2049140360329187562",
+      "https://x.com/kimmonismus/status/2049081961222955403"
+    ],
+    "sample_titles": [
+      "全球首个全AI运营的在线广播电台上线，24小时不间断播报AI动态",
+      "人形机器人已能自主完成8小时轮班",
+      "微软与OpenAI重组合作，后者迈向独立平台",
+      "马斯克诉OpenAI案开庭，指控其背叛非营利初衷",
+      "谷歌与五角大楼签署AI协议，允许其模型用于机密军事目的"
+    ]
+  },
+  "X：Kling AI (@Kling_ai)": {
+    "source_label": "X：Kling AI (@Kling_ai)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on home timeline",
+    "evidence_pages": [
+      "home"
+    ],
+    "sample_links": [
+      "https://x.com/Kling_ai/status/2054577409064911330"
+    ],
+    "sample_titles": [
+      "Kling AI将亮相2026戛纳探讨AI电影制作"
+    ]
+  },
+  "X：Krea AI (@krea_ai)": {
+    "source_label": "X：Krea AI (@krea_ai)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-14",
+      "daily-latest"
+    ],
+    "sample_links": [
+      "https://x.com/krea_ai/status/2054611917365526793"
+    ],
+    "sample_titles": [
+      "Krea 2发布访问码，限量体验"
+    ]
+  },
+  "X：Luma AI (@LumaLabsAI)": {
+    "source_label": "X：Luma AI (@LumaLabsAI)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-06",
+      "daily-2026-05-12"
+    ],
+    "sample_links": [
+      "https://x.com/LumaLabsAI/status/2051687594119799098",
+      "https://x.com/LumaLabsAI/status/2053941836402901409"
+    ],
+    "sample_titles": [
+      "Uni-1.1 API上线，内置提示增强与多模态能力",
+      "Luma Agents：从情绪板到完整广告的自动化创作"
+    ]
+  },
+  "X：Microsoft Research (@MSFTResearch)": {
+    "source_label": "X：Microsoft Research (@MSFTResearch)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-01",
+      "daily-2026-05-05",
+      "daily-2026-05-12",
+      "daily-2026-05-13"
+    ],
+    "sample_links": [
+      "https://x.com/MSFTResearch/status/2054191008091418998",
+      "https://x.com/MSFTResearch/status/2049972123901264027",
+      "https://x.com/MSFTResearch/status/2051345527103443126",
+      "https://x.com/MSFTResearch/status/2053890478165147693"
+    ],
+    "sample_titles": [
+      "材料科学AI多任务模型突破",
+      "微软研究揭示AI智能体交互网络风险",
+      "企业数据泄露风险与AI工作部署新研究",
+      "智能体执行能力强但优化用户立场不足"
+    ]
+  },
+  "X：Midjourney (@midjourney)": {
+    "source_label": "X：Midjourney (@midjourney)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-01"
+    ],
+    "sample_links": [
+      "https://x.com/midjourney/status/2049973065094947125"
+    ],
+    "sample_titles": [
+      "V8.1画质升级并扩展发布渠道"
+    ]
+  },
+  "X：MiniMax (@MiniMax_AI)": {
+    "source_label": "X：MiniMax (@MiniMax_AI)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-12"
+    ],
+    "sample_links": [
+      "https://x.com/MiniMax_AI/status/2053899661334003938",
+      "https://x.com/MiniMax_AI/status/2053860184532066737"
+    ],
+    "sample_titles": [
+      "旧金山AI模型开发者盛会周三举行",
+      "MiniMax组建“10x团队”，邀请领域专家共推AI跨越式发展"
+    ]
+  },
+  "X：ModelScope 魔搭 (@ModelScope2022)": {
+    "source_label": "X：ModelScope 魔搭 (@ModelScope2022)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-29"
+    ],
+    "sample_links": [
+      "https://x.com/ModelScope2022/status/2049030111211741245"
+    ],
+    "sample_titles": [
+      "SenseNova-U1原生多模态模型发布，统一理解与生成"
+    ]
+  },
+  "X：Nathan Lambert (@natolambert)": {
+    "source_label": "X：Nathan Lambert (@natolambert)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-07"
+    ],
+    "sample_links": [
+      "https://x.com/natolambert/status/2052067048206090610"
+    ],
+    "sample_titles": [
+      "月之暗面完成20亿美元融资，估值超200亿"
+    ]
+  },
+  "X：OpenAI (@OpenAI)": {
+    "source_label": "X：OpenAI (@OpenAI)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-30",
+      "daily-2026-05-01",
+      "daily-2026-05-02",
+      "daily-2026-05-07",
+      "daily-2026-05-08",
+      "daily-2026-05-09"
+    ],
+    "sample_links": [
+      "https://x.com/OpenAI/status/2049534651702956103",
+      "https://x.com/OpenAI/status/2049928776147230886",
+      "https://x.com/OpenAI/status/2050250926888468929",
+      "https://x.com/OpenAI/status/2052086313797705954",
+      "https://x.com/OpenAI/status/2052480800004956323"
+    ],
+    "sample_titles": [
+      "OpenAI开发者大会重返旧金山",
+      "Codex简化日常办公流程",
+      "GPT-5.5发布一周创营收新高",
+      "ChatGPT未来班2026届学员发布AI应用成果",
+      "Codex插件现支持Chrome跨标签并行运行"
+    ]
+  },
+  "X：OpenAI Developers (@OpenAIDevs)": {
+    "source_label": "X：OpenAI Developers (@OpenAIDevs)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-28",
+      "daily-2026-04-30",
+      "daily-2026-05-02",
+      "daily-2026-05-06",
+      "daily-2026-05-08",
+      "daily-2026-05-10",
+      "daily-2026-05-13"
+    ],
+    "sample_links": [
+      "https://x.com/OpenAIDevs/status/2054252221941121035",
+      "https://x.com/OpenAIDevs/status/2054298427245441141",
+      "https://x.com/OpenAIDevs/status/2048825010371039648",
+      "https://x.com/OpenAIDevs/status/2049605820351230158",
+      "https://x.com/OpenAIDevs/status/2049595890395152728"
+    ],
+    "sample_titles": [
+      "Symphony为每个任务启动运行Codex智能体",
+      "Codex实现跨应用无感多任务处理",
+      "开源Symphony让每个任务都有Codex代理",
+      "Codex通过Figma插件实现方案可视化",
+      "响应API引入WebSocket提升代理效率"
+    ]
+  },
+  "X：OpenClaw (@openclaw)": {
+    "source_label": "X：OpenClaw (@openclaw)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-05"
+    ],
+    "sample_links": [
+      "https://x.com/openclaw/status/2051218126218445289"
+    ],
+    "sample_titles": [
+      "OpenClaw发布重大更新 强化文件传输与插件安全"
+    ]
+  },
+  "X：OpenRouter (@OpenRouter)": {
+    "source_label": "X：OpenRouter (@OpenRouter)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-29",
+      "daily-2026-05-01",
+      "daily-2026-05-03",
+      "daily-2026-05-09",
+      "daily-2026-05-10",
+      "daily-2026-05-11",
+      "daily-2026-05-12",
+      "daily-2026-05-13"
+    ],
+    "sample_links": [
+      "https://x.com/OpenRouter/status/2054232344148787462",
+      "https://x.com/OpenRouter/status/2049145538373947541",
+      "https://x.com/OpenRouter/status/2049164366218772526",
+      "https://x.com/OpenRouter/status/2049154984810578168",
+      "https://x.com/OpenRouter/status/2049996465263759563"
+    ],
+    "sample_titles": [
+      "Perceptron Mk1视觉语言模型上线OpenRouter",
+      "Poolside发布首款公共基础模型",
+      "NVIDIA发布开源多模态模型Nemotron 3 Nano Omni",
+      "Opus 4.7模型成本普遍上涨12-27%",
+      "Grok-4.3上线OpenRouter 性价比提升显著"
+    ]
+  },
+  "X：Oran Ge (@oran_ge)": {
+    "source_label": "X：Oran Ge (@oran_ge)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-08"
+    ],
+    "sample_links": [
+      "https://x.com/oran_ge/status/2052497363043049662",
+      "https://x.com/oran_ge/status/2052385988375408749"
+    ],
+    "sample_titles": [
+      "开源AI Agent网盘NeuDrive，支持主流工具与自动同步",
+      "ColaMD 1.5版实现Markdown内容与HTML模板分离"
+    ]
+  },
+  "X：Orange AI (@oran_ge)": {
+    "source_label": "X：Orange AI (@oran_ge)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on all timeline",
+    "evidence_pages": [
+      "all"
+    ],
+    "sample_links": [
+      "https://x.com/oran_ge/status/2054702036189577571",
+      "https://x.com/oran_ge/status/2054704934327923174",
+      "https://x.com/oran_ge/status/2054691357252522242"
+    ],
+    "sample_titles": [
+      "李想 × 老罗播客笔记",
+      "首届 Agent 坦克大战，你要不要来玩？",
+      "李想：AI是生产力工具，一人公司难建真实生产环境"
+    ]
+  },
+  "X：Perplexity (@perplexity_ai)": {
+    "source_label": "X：Perplexity (@perplexity_ai)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-06",
+      "daily-2026-05-07",
+      "daily-2026-05-09"
+    ],
+    "sample_links": [
+      "https://x.com/perplexity_ai/status/2051710342242480538",
+      "https://x.com/perplexity_ai/status/2052028012313649194",
+      "https://x.com/perplexity_ai/status/2052786858774630665"
+    ],
+    "sample_titles": [
+      "Perplexity与Computer接入顶级医学资源",
+      "Perplexity Agent API 新增金融搜索功能",
+      "发布智能体技能构建内部手册"
+    ]
+  },
+  "X：Peter Steinberger (@steipete)": {
+    "source_label": "X：Peter Steinberger (@steipete)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-06",
+      "daily-2026-05-10",
+      "daily-2026-05-11"
+    ],
+    "sample_links": [
+      "https://x.com/steipete/status/2051579838780072173",
+      "https://x.com/steipete/status/2053114837698249190",
+      "https://x.com/steipete/status/2053032450138276274",
+      "https://x.com/steipete/status/2053430278077440060"
+    ],
+    "sample_titles": [
+      "应对GitHub速率限制，推出两项工具更新",
+      "Peekaboo 3.0 正式发布 专注操作与界面检测",
+      "用Codex并行调试验证修复",
+      "推出BlackBar菜单栏工具"
+    ]
+  },
+  "X：PixVerse (@PixVerse_)": {
+    "source_label": "X：PixVerse (@PixVerse_)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-02"
+    ],
+    "sample_links": [
+      "https://x.com/PixVerse_/status/2050316830783529344"
+    ],
+    "sample_titles": [
+      "玻璃骏马展现超现实艺术境界"
+    ]
+  },
+  "X：Replit (@Replit)": {
+    "source_label": "X：Replit (@Replit)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-01",
+      "daily-2026-05-05",
+      "daily-2026-05-08"
+    ],
+    "sample_links": [
+      "https://x.com/Replit/status/2049958677076213889",
+      "https://x.com/Replit/status/2051376432534712499",
+      "https://x.com/Replit/status/2052181075988992004"
+    ],
+    "sample_titles": [
+      "Replit十周年庆 免费开放Agent功能",
+      "Replit无需幻灯片快速生成演示文稿",
+      "首届AI创意大会即将登陆纽约"
+    ]
+  },
+  "X：Replit ⠕ (@Replit)": {
+    "source_label": "X：Replit ⠕ (@Replit)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on all timeline",
+    "evidence_pages": [
+      "all"
+    ],
+    "sample_links": [
+      "https://x.com/Replit/status/2054698293800693802"
+    ],
+    "sample_titles": [
+      "迟来的母亲节聚焦：一位值得庆祝的创造者母亲"
+    ]
+  },
+  "X：Rohan Paul (@rohanpaul_ai)": {
+    "source_label": "X：Rohan Paul (@rohanpaul_ai)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-25",
+      "daily-2026-04-28",
+      "daily-2026-04-30",
+      "daily-2026-05-01",
+      "daily-2026-05-05",
+      "daily-2026-05-06",
+      "daily-2026-05-07",
+      "daily-2026-05-08",
+      "daily-2026-05-10"
+    ],
+    "sample_links": [
+      "https://x.com/rohanpaul_ai/status/2047543433515123197",
+      "https://x.com/rohanpaul_ai/status/2048684647715070121",
+      "https://x.com/rohanpaul_ai/status/2049575485508817067",
+      "https://x.com/rohanpaul_ai/status/2049942207277494589",
+      "https://x.com/rohanpaul_ai/status/2049779289592139929"
+    ],
+    "sample_titles": [
+      "DeepSeek V4 正式发布：开源百万上下文模型",
+      "ChatGPT Images 2.0生成数学信息图表现惊艳，输出结果多样",
+      "AI迷雾：预见能力崩溃与短期化未来",
+      "Alphabet市值单日暴增4200亿美元，逼近英伟达",
+      "微软研究揭示AI助手在长文档编辑中普遍损坏内容"
+    ]
+  },
+  "X：Runway (@runwayml)": {
+    "source_label": "X：Runway (@runwayml)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-02",
+      "daily-2026-05-13"
+    ],
+    "sample_links": [
+      "https://x.com/runwayml/status/2054211544636850235",
+      "https://x.com/runwayml/status/2050270993487212712"
+    ],
+    "sample_titles": [
+      "首届虚构节目提案大赛揭晓二十强",
+      "Runway全平台上线 移动端创作无界限"
+    ]
+  },
+  "X：Sakana AI (@SakanaAILabs)": {
+    "source_label": "X：Sakana AI (@SakanaAILabs)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-25",
+      "daily-2026-04-26",
+      "daily-2026-04-28"
+    ],
+    "sample_links": [
+      "https://x.com/SakanaAILabs/status/2047596110815056338",
+      "https://x.com/SakanaAILabs/status/2047505328116465983",
+      "https://x.com/SakanaAILabs/status/2047479445209145785",
+      "https://x.com/SakanaAILabs/status/2048181386868293639",
+      "https://x.com/SakanaAILabs/status/2048777689763639741"
+    ],
+    "sample_titles": [
+      "Sakana AI发布多智能体协调系统Sakana Fugu并开启Beta测试",
+      "Sakana AI发布多智能体编排系统Fugu测试版",
+      "Sakana公司推出商业AI产品Sakana Fugu测试版：多智能体编排系统",
+      "进化协调器TRINITY：动态组合前沿大模型，无需修改权重",
+      "Conductor模型：自然语言智能体协调器"
+    ]
+  },
+  "X：Sam Altman (@sama)": {
+    "source_label": "X：Sam Altman (@sama)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-28",
+      "daily-2026-05-02",
+      "daily-2026-05-11"
+    ],
+    "sample_links": [
+      "https://x.com/sama/status/2048755148361707946",
+      "https://x.com/sama/status/2050357911915028689",
+      "https://x.com/sama/status/2053566155571560868"
+    ],
+    "sample_titles": [
+      "OpenAI扩展多云合作 与微软续签至2032年",
+      "可用ChatGPT账户登录OpenClaw",
+      "Codex自主完成安全审计并赚取赏金"
+    ]
+  },
+  "X：Satya Nadella (@satyanadella)": {
+    "source_label": "X：Satya Nadella (@satyanadella)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-06"
+    ],
+    "sample_links": [
+      "https://x.com/satyanadella/status/2051712533174931707"
+    ],
+    "sample_titles": [
+      "Copilot Cowork新增移动端与跨系统功能"
+    ]
+  },
+  "X：SemiAnalysis (@SemiAnalysis_)": {
+    "source_label": "X：SemiAnalysis (@SemiAnalysis_)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-25",
+      "daily-2026-05-05"
+    ],
+    "sample_links": [
+      "https://x.com/SemiAnalysis_/status/2047540348826931467",
+      "https://x.com/SemiAnalysis_/status/2051406756429943109"
+    ],
+    "sample_titles": [
+      "vLLM实现对DeepSeek-V4模型的即日支持并详解长上下文优化技术",
+      "GB300 NVL72实测性能达GB200的2.7倍，凸显端到端实测价值"
+    ]
+  },
+  "X：SenseTime (@SenseTime_AI)": {
+    "source_label": "X：SenseTime (@SenseTime_AI)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on home timeline",
+    "evidence_pages": [
+      "home"
+    ],
+    "sample_links": [
+      "https://x.com/SenseTime_AI/status/2054446490420924558"
+    ],
+    "sample_titles": [
+      "SenseNova-U1 技术报告深度发布：前沿原生多模态模型构建全指南"
+    ]
+  },
+  "X：Suno (@suno)": {
+    "source_label": "X：Suno (@suno)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-29",
+      "daily-2026-05-08",
+      "daily-2026-05-09"
+    ],
+    "sample_links": [
+      "https://x.com/suno/status/2049180334831366187",
+      "https://x.com/suno/status/2052422389401620760",
+      "https://x.com/suno/status/2052848941260058808"
+    ],
+    "sample_titles": [
+      "60秒制作伴奏指南",
+      "NBC关注Suno短信转歌曲AI热潮",
+      "仅凭人声能否创作流行歌曲？"
+    ]
+  },
+  "X：Testing Catalog (@testingcatalog)": {
+    "source_label": "X：Testing Catalog (@testingcatalog)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-25",
+      "daily-2026-04-28",
+      "daily-2026-05-06",
+      "daily-2026-05-07",
+      "daily-2026-05-13"
+    ],
+    "sample_links": [
+      "https://x.com/testingcatalog/status/2054253853026185609",
+      "https://x.com/testingcatalog/status/2047556465955655766",
+      "https://x.com/testingcatalog/status/2048779566898930142",
+      "https://x.com/testingcatalog/status/2051746452234285160",
+      "https://x.com/testingcatalog/status/2052149633913139655"
+    ],
+    "sample_titles": [
+      "谷歌发布全新安卓智能助理",
+      "DeepSeek发布V4系列开源模型，性能比肩顶级闭源模型",
+      "OpenAI获准使用其他云服务商，微软2030年后停止分成",
+      "Google为Gemma 4系列发布了多令牌预测（MTP）草稿模型。它在不损失性能的情况下带来了3倍的速度提升。 期待在Mac Mini上测试带有MTP草稿模型…",
+      "Google DeepMind与EVE Online合作研究复杂智能系统"
+    ]
+  },
+  "X：Tibo (@thsottiaux)": {
+    "source_label": "X：Tibo (@thsottiaux)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-14",
+      "daily-latest"
+    ],
+    "sample_links": [
+      "https://x.com/thsottiaux/status/2054398093886673260"
+    ],
+    "sample_titles": [
+      "Codex应用内浏览器升级，提升多视口测试与标注效率"
+    ]
+  },
+  "X：Vista (@vista8)": {
+    "source_label": "X：Vista (@vista8)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-29",
+      "daily-2026-05-07",
+      "daily-2026-05-08",
+      "daily-2026-05-10",
+      "daily-2026-05-12",
+      "daily-2026-05-13"
+    ],
+    "sample_links": [
+      "https://x.com/vista8/status/2054218925005816077",
+      "https://x.com/vista8/status/2049119963903099291",
+      "https://x.com/vista8/status/2052027791546233050",
+      "https://x.com/vista8/status/2051940612698776022",
+      "https://x.com/vista8/status/2052203194982248537"
+    ],
+    "sample_titles": [
+      "在Claude Code中安装官方插件调用Codex",
+      "从集装箱到AI：一部“投资人亏钱”的重复史",
+      "姚老师开源百个商业实用AI提示词合集",
+      "开发者整合Canvas库实现Markdown编辑器内多图拼接",
+      "Open Slide：让 AI 来写你的 PPT 代码"
+    ]
+  },
+  "X：cb_doge (@cb_doge)": {
+    "source_label": "X：cb_doge (@cb_doge)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-06",
+      "daily-2026-05-13"
+    ],
+    "sample_links": [
+      "https://x.com/cb_doge/status/2054225901232259092",
+      "https://x.com/cb_doge/status/2054256398834569440",
+      "https://x.com/cb_doge/status/2054265408933462034",
+      "https://x.com/cb_doge/status/2051469347131183130"
+    ],
+    "sample_titles": [
+      "Grok接入Gmail，智能邮件助手革新收件箱管理",
+      "青少年按ChatGPT建议混用药物致死，父母起诉OpenAI",
+      "山姆·奥特曼因涉嫌利用OpenAI谋私利遭正式调查",
+      "奥特曼与布罗克曼被指在OpenAI进行自我交易，涉嫌背叛马斯克"
+    ]
+  },
+  "X：ginobefun (@hongming731)": {
+    "source_label": "X：ginobefun (@hongming731)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on home timeline",
+    "evidence_pages": [
+      "home",
+      "all"
+    ],
+    "sample_links": [
+      "https://x.com/hongming731/status/2054701978924859865",
+      "https://x.com/hongming731/status/2054719051805687939",
+      "https://x.com/hongming731/status/2054719723276063016",
+      "https://x.com/hongming731/status/2054722117846040636",
+      "https://x.com/hongming731/status/2054723213608026145"
+    ],
+    "sample_titles": [
+      "BestBlogs早报：AI智能体工程化实战与安全架构",
+      "使用Claude进行计算机和浏览器操作的最佳实践",
+      "在 Windows 上为 Codex 构建安全有效的沙箱",
+      "从头构建多智能体系统学到的经验",
+      "Anthropic为付费Claude计划新增程序化调用专用额度"
+    ]
+  },
+  "X：karminski (@karminski3)": {
+    "source_label": "X：karminski (@karminski3)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-01"
+    ],
+    "sample_links": [
+      "https://x.com/karminski3/status/2049926904120267144"
+    ],
+    "sample_titles": [
+      "DeepSeek-V4 API推理内容字段缺失导致报错问题"
+    ]
+  },
+  "X：meng shao (@shao__meng)": {
+    "source_label": "X：meng shao (@shao__meng)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on home timeline",
+    "evidence_pages": [
+      "home"
+    ],
+    "sample_links": [
+      "https://x.com/shao__meng/status/2054360963571446232"
+    ],
+    "sample_titles": [
+      "Google 发布首款 AI 优先笔记本 Googlebook，集成 Gemini 智能"
+    ]
+  },
+  "X：opencode (@opencode)": {
+    "source_label": "X：opencode (@opencode)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-11"
+    ],
+    "sample_links": [
+      "https://x.com/opencode/status/2053393732221739498"
+    ],
+    "sample_titles": [
+      "OpenCode x Ring 2.6 1T限时免费开放"
+    ]
+  },
+  "X：swyx (@swyx)": {
+    "source_label": "X：swyx (@swyx)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-26",
+      "daily-2026-05-12"
+    ],
+    "sample_links": [
+      "https://x.com/swyx/status/2048126046487322835",
+      "https://x.com/swyx/status/2053856676969890189"
+    ],
+    "sample_titles": [
+      "DeepSeek-V4预览版正式发布，开启百万上下文高性价比时代",
+      "传奇总部“Cog House”首度公开：天才创始人Scott Wu与Cognition AI的崛起之路"
+    ]
+  },
+  "X：xAI (@xai)": {
+    "source_label": "X：xAI (@xai)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-05",
+      "daily-2026-05-06"
+    ],
+    "sample_links": [
+      "https://x.com/xai/status/2051435973473624160",
+      "https://x.com/xai/status/2051703217697010103"
+    ],
+    "sample_titles": [
+      "语音克隆技术上线 真假难辨",
+      "Grok 4.3正式上线API 速度与智能双突破"
+    ]
+  },
+  "X：可灵 Kling AI (@Kling_ai)": {
+    "source_label": "X：可灵 Kling AI (@Kling_ai)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-14",
+      "daily-latest"
+    ],
+    "sample_links": [
+      "https://x.com/Kling_ai/status/2054577409064911330"
+    ],
+    "sample_titles": [
+      "Kling AI将亮相2026戛纳探讨AI电影制作"
+    ]
+  },
+  "X：商汤 SenseTime (@SenseTime_AI)": {
+    "source_label": "X：商汤 SenseTime (@SenseTime_AI)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-30",
+      "daily-2026-05-07",
+      "daily-2026-05-12",
+      "daily-2026-05-14",
+      "daily-latest"
+    ],
+    "sample_links": [
+      "https://x.com/SenseTime_AI/status/2054446490420924558",
+      "https://x.com/SenseTime_AI/status/2049405617849454805",
+      "https://x.com/SenseTime_AI/status/2052033518121955818",
+      "https://x.com/SenseTime_AI/status/2053782644492525847"
+    ],
+    "sample_titles": [
+      "SenseNova-U1 技术报告深度发布：前沿原生多模态模型构建全指南",
+      "SenseNova U1上线Hugging Face与GitHub",
+      "SenseNova-U1开源8步蒸馏LoRA，推理速度大幅提升",
+      "SenseNova U1图像生成模型登陆ComfyUI平台"
+    ]
+  },
+  "X：宝玉 (@dotey)": {
+    "source_label": "X：宝玉 (@dotey)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-25",
+      "daily-2026-04-27",
+      "daily-2026-04-28",
+      "daily-2026-05-04",
+      "daily-2026-05-06",
+      "daily-2026-05-08",
+      "daily-2026-05-10"
+    ],
+    "sample_links": [
+      "https://x.com/dotey/status/2047493663580659734",
+      "https://x.com/dotey/status/2048529821706195442",
+      "https://x.com/dotey/status/2048258873119674779",
+      "https://x.com/dotey/status/2048793351290327381",
+      "https://x.com/dotey/status/2051057428075053120"
+    ],
+    "sample_titles": [
+      "GPT图像生成提示词：单页手绘教育信息图模板",
+      "GPT Image 2 Prompt生成刺绣风图像提示与复刻挑战",
+      "数学可视化信息图的GPT提示词模板",
+      "GPT Image 2 Prompt生成埃隆·马斯克概念海报设计指南",
+      "大多数公司尚未做好迎接AI的准备"
+    ]
+  },
+  "X：小互 (@xiaohu)": {
+    "source_label": "X：小互 (@xiaohu)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-25",
+      "daily-2026-05-05",
+      "daily-2026-05-12"
+    ],
+    "sample_links": [
+      "https://x.com/xiaohu/status/2047513290092503118",
+      "https://x.com/xiaohu/status/2051292100067729623",
+      "https://x.com/xiaohu/status/2053985835339661679"
+    ],
+    "sample_titles": [
+      "Deepseek-v4 发布，性能比肩顶级闭源模型",
+      "为AI编程立规矩：CLAUDE.md文档的四条核心原则",
+      "Claude Code 发布多任务管理工具 Agent View"
+    ]
+  },
+  "X：小北 (@frxiaobei)": {
+    "source_label": "X：小北 (@frxiaobei)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-02",
+      "daily-2026-05-03",
+      "daily-2026-05-12",
+      "daily-2026-05-13"
+    ],
+    "sample_links": [
+      "https://x.com/frxiaobei/status/2054245095587959004",
+      "https://x.com/frxiaobei/status/2050360857650171975",
+      "https://x.com/frxiaobei/status/2050591638054203871",
+      "https://x.com/frxiaobei/status/2053861985008431398",
+      "https://x.com/frxiaobei/status/2053827716605169804"
+    ],
+    "sample_titles": [
+      "AI取代人类？各方叙事背后的利益驱动",
+      "2026 年的 AI 提示方式与 2022 年 ChatGPT 推出时大不相同。",
+      "我把 AI 助手从 Claude 切到 GPT-5.5，他变强了，但不像他了",
+      "Anthropic开源金融AI全栈模板，定义行业落地新标准",
+      "AI工具批量生成知识产权申请材料引关注"
+    ]
+  },
+  "X：小米 MiMo (@XiaomiMiMo)": {
+    "source_label": "X：小米 MiMo (@XiaomiMiMo)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-28",
+      "daily-2026-04-30"
+    ],
+    "sample_links": [
+      "https://x.com/XiaomiMiMo/status/2048821516079661561",
+      "https://x.com/XiaomiMiMo/status/2049483701906776514"
+    ],
+    "sample_titles": [
+      "小米开源MiMo-V2.5双模型，支持百万上下文与商用",
+      "小米MiMo-V2.5-Pro在最新Arena排行榜中实现多项突破"
+    ]
+  },
+  "X：智谱 Z.ai (@Zai_org)": {
+    "source_label": "X：智谱 Z.ai (@Zai_org)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-08"
+    ],
+    "sample_links": [
+      "https://x.com/Zai_org/status/2052426777654387168"
+    ],
+    "sample_titles": [
+      "GLM-5V-Turbo技术报告发布，迈向原生多模态智能体基础模型"
+    ]
+  },
+  "X：歸藏 (@op7418)": {
+    "source_label": "X：歸藏 (@op7418)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-26",
+      "daily-2026-04-30",
+      "daily-2026-05-02",
+      "daily-2026-05-09",
+      "daily-2026-05-12",
+      "daily-2026-05-13",
+      "daily-2026-05-14",
+      "daily-latest"
+    ],
+    "sample_links": [
+      "https://x.com/op7418/status/2054491392261632448",
+      "https://x.com/op7418/status/2054023602874491326",
+      "https://x.com/op7418/status/2048033423659557289",
+      "https://x.com/op7418/status/2049457761533239340",
+      "https://x.com/op7418/status/2050075020714815898"
+    ],
+    "sample_titles": [
+      "利用搜索垫图提升AI绘画准确性与质量",
+      "Thinking Machines发布原生多模态“交互模型”，实现实时人机协作",
+      "DeepSeek V4模型限时2.5折优惠",
+      "Moxt 实测：为AI构建原生工作空间，打造高效组织协作者",
+      "GPT-Image-2.0反讽提示词爆红，模仿拙劣鼠标绘图"
+    ]
+  },
+  "X：歸藏(guizang.ai) (@op7418)": {
+    "source_label": "X：歸藏(guizang.ai) (@op7418)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on home timeline",
+    "evidence_pages": [
+      "home",
+      "all"
+    ],
+    "sample_links": [
+      "https://x.com/op7418/status/2054491392261632448",
+      "https://x.com/op7418/status/2054725474493067482"
+    ],
+    "sample_titles": [
+      "利用搜索垫图提升AI绘画准确性与质量",
+      "Claude Code 的每周限额将增加 50%，持续到 7 月 13 号。"
+    ]
+  },
+  "X：洪明 (@hongming731)": {
+    "source_label": "X：洪明 (@hongming731)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-30",
+      "daily-2026-05-14",
+      "daily-latest"
+    ],
+    "sample_links": [
+      "https://x.com/hongming731/status/2054701978924859865",
+      "https://x.com/hongming731/status/2049335578890788963"
+    ],
+    "sample_titles": [
+      "BestBlogs早报：AI智能体工程化实战与安全架构",
+      "AI初创公司的独立生存之道：差异化、专注与速度"
+    ]
+  },
+  "X：百度 Baidu (@Baidu_Inc)": {
+    "source_label": "X：百度 Baidu (@Baidu_Inc)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-01",
+      "daily-2026-05-10",
+      "daily-2026-05-14",
+      "daily-latest"
+    ],
+    "sample_links": [
+      "https://x.com/Baidu_Inc/status/2054511974172557463",
+      "https://x.com/Baidu_Inc/status/2049682555809788282",
+      "https://x.com/Baidu_Inc/status/2053009538769735774"
+    ],
+    "sample_titles": [
+      "Miaoda应用与企业版上线，自生成代码占比90%",
+      "ERNIE 5.1 Preview发布，架构更轻性能更强",
+      "ERNIE 5.1发布，预训练成本仅需对标模型6%"
+    ]
+  },
+  "X：硅基流动 SiliconFlow (@SiliconFlowAI)": {
+    "source_label": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-30",
+      "daily-2026-05-10",
+      "daily-2026-05-13"
+    ],
+    "sample_links": [
+      "https://x.com/SiliconFlowAI/status/2054035848866504953",
+      "https://x.com/SiliconFlowAI/status/2049315797701673290",
+      "https://x.com/SiliconFlowAI/status/2053035285974487369"
+    ],
+    "sample_titles": [
+      "答案之外：信息呈现方式正成为AI智能层的一部分",
+      "SiliconFlow成第三方模型日用量榜首",
+      "Qwen系列多尺寸模型登陆SiliconFlow平台"
+    ]
+  },
+  "X：腾讯混元 (@TencentHunyuan)": {
+    "source_label": "X：腾讯混元 (@TencentHunyuan)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-30",
+      "daily-2026-05-07",
+      "daily-2026-05-10",
+      "daily-2026-05-12",
+      "daily-2026-05-14",
+      "daily-latest"
+    ],
+    "sample_links": [
+      "https://x.com/TencentHunyuan/status/2054403079433572357",
+      "https://x.com/TencentHunyuan/status/2049487799850840334",
+      "https://x.com/TencentHunyuan/status/2051978552900538403",
+      "https://x.com/TencentHunyuan/status/2053073752431403482",
+      "https://x.com/TencentHunyuan/status/2053771684482851255"
+    ],
+    "sample_titles": [
+      "Hy3预览版登陆GMI，开源最强模型领跑",
+      "腾讯开源Hy-MT1.5-1.8B-1.25bit翻译模型，440MB体积支持手机离线运行",
+      "Hy3预览版周榜夺魁，周增298%",
+      "Hy3预览版免费期结束 三项指标居首",
+      "腾讯混元Hy3预览版发布，专注复杂智能体任务"
+    ]
+  },
+  "X：蚂蚁百灵 (@AntLingAGI)": {
+    "source_label": "X：蚂蚁百灵 (@AntLingAGI)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-29",
+      "daily-2026-04-30",
+      "daily-2026-05-01",
+      "daily-2026-05-08",
+      "daily-2026-05-09"
+    ],
+    "sample_links": [
+      "https://x.com/AntLingAGI/status/2049154484836917396",
+      "https://x.com/AntLingAGI/status/2049540423140643059",
+      "https://x.com/AntLingAGI/status/2049910420782371163",
+      "https://x.com/AntLingAGI/status/2052404630488023536",
+      "https://x.com/AntLingAGI/status/2052808934390661134"
+    ],
+    "sample_titles": [
+      "AntLingAGI与SGLang团队合作推出Ling-2.6-flash即时指令模型",
+      "旗舰指令模型快速高效执行的秘诀：可靠基础设施与优化",
+      "AntLingAGI开源Ling-2.6-1T模型，登陆Hugging Face平台",
+      "万亿参数指令模型Ling-2.6-1T发布",
+      "Ring-2.6-1T发布：万亿参数思维模型专为复杂任务设计"
+    ]
+  },
+  "X：谢赛宁 (@sainingxie)": {
+    "source_label": "X：谢赛宁 (@sainingxie)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-24"
+    ],
+    "sample_links": [
+      "https://x.com/sainingxie/status/2047339789926429166"
+    ],
+    "sample_titles": [
+      "Vision🍌发布：计算机视觉迎来静默变革"
+    ]
+  },
+  "X：通义千问 / Qwen (@Alibaba_Qwen)": {
+    "source_label": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-30",
+      "daily-2026-05-01"
+    ],
+    "sample_links": [
+      "https://x.com/Alibaba_Qwen/status/2049462758211772663",
+      "https://x.com/Alibaba_Qwen/status/2049861145574690992"
+    ],
+    "sample_titles": [
+      "闪速QLA：基于TileLang构建的高性能线性注意力内核",
+      "Qwen-Scope开源套件发布：稀疏自编码器助力模型内部特征操控"
+    ]
+  },
+  "X：邵猛 (@shao__meng)": {
+    "source_label": "X：邵猛 (@shao__meng)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-29",
+      "daily-2026-05-04",
+      "daily-2026-05-05",
+      "daily-2026-05-06",
+      "daily-2026-05-07",
+      "daily-2026-05-08",
+      "daily-2026-05-11",
+      "daily-2026-05-13"
+    ],
+    "sample_links": [
+      "https://x.com/shao__meng/status/2053998536711405978",
+      "https://x.com/shao__meng/status/2048937539139170342",
+      "https://x.com/shao__meng/status/2048944036975931614",
+      "https://x.com/shao__meng/status/2050892004188692616",
+      "https://x.com/shao__meng/status/2051303113626460533"
+    ],
+    "sample_titles": [
+      "Cursor集成Microsoft Teams提升办公效率",
+      "Devin for Terminal: 从云端协作回到本地终端",
+      "VLAA-GUI: 让 GUI 智能体学会“停下、恢复、搜索”",
+      "解决真正工程问题的Agent Skills集合",
+      "Cursor团队发布官方工作流插件，集成17项核心开发技能"
+    ]
+  },
+  "X：阶跃星辰 StepFun (@StepFun_ai)": {
+    "source_label": "X：阶跃星辰 StepFun (@StepFun_ai)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-10",
+      "daily-2026-05-13"
+    ],
+    "sample_links": [
+      "https://x.com/StepFun_ai/status/2054282965652471918",
+      "https://x.com/StepFun_ai/status/2052963182587584878"
+    ],
+    "sample_titles": [
+      "Step Image Edit 2图像模型发布，性能领先且高效",
+      "StepAudio 2.5 TTS 在语音竞技场盲测中跻身全球前三"
+    ]
+  },
+  "X：阿易 AI Notes (@AYi_AInotes)": {
+    "source_label": "X：阿易 AI Notes (@AYi_AInotes)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-29",
+      "daily-2026-05-03",
+      "daily-2026-05-05",
+      "daily-2026-05-06",
+      "daily-2026-05-07",
+      "daily-2026-05-10",
+      "daily-2026-05-11",
+      "daily-2026-05-12",
+      "daily-2026-05-14",
+      "daily-latest"
+    ],
+    "sample_links": [
+      "https://x.com/AYi_AInotes/status/2054616319127904403",
+      "https://x.com/AYi_AInotes/status/2049146270371955053",
+      "https://x.com/AYi_AInotes/status/2050606257925480808",
+      "https://x.com/AYi_AInotes/status/2050447380311413091",
+      "https://x.com/AYi_AInotes/status/2051199093330804990"
+    ],
+    "sample_titles": [
+      "Meta首席AI官官宣WhatsApp和Meta AI推出Incognito Chat",
+      "优化CLAUDE.md：聚焦关键规则以提升AI协作效率",
+      "优化Claude使用策略：从昂贵聊天到高效生产工具",
+      "科技圈正在发生一波反常的人才大迁移：多家十亿美元级公司的CTO集体辞职，转投Anthropic做IC",
+      "Claude通过第三方平台补足视频分析能力，开启AI应用新生态"
+    ]
+  },
+  "X：阿绎 AYi (@AYi_AInotes)": {
+    "source_label": "X：阿绎 AYi (@AYi_AInotes)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "seen on home timeline",
+    "evidence_pages": [
+      "home"
+    ],
+    "sample_links": [
+      "https://x.com/AYi_AInotes/status/2054616319127904403"
+    ],
+    "sample_titles": [
+      "Meta首席AI官官宣WhatsApp和Meta AI推出Incognito Chat"
+    ]
+  },
+  "X：阿里云 / Alibaba Cloud (@alibaba_cloud)": {
+    "source_label": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+    "source_kind": "x",
+    "origin_type": "官方·X",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-05-01",
+      "daily-2026-05-09",
+      "daily-2026-05-10",
+      "daily-2026-05-12",
+      "daily-2026-05-14",
+      "daily-latest"
+    ],
+    "sample_links": [
+      "https://x.com/alibaba_cloud/status/2054653031472414864",
+      "https://x.com/alibaba_cloud/status/2049737856978211180",
+      "https://x.com/alibaba_cloud/status/2049736035173629993",
+      "https://x.com/alibaba_cloud/status/2049668561208045904",
+      "https://x.com/alibaba_cloud/status/2052680300803596574"
+    ],
+    "sample_titles": [
+      "AI角色实现记忆共情与主动交互",
+      "Qwen3.6-Plus上线Together AI平台",
+      "阿里云发布HappyHorse，实现秒级AI视频生成",
+      "Wan2.7-Image实现精准色彩控制",
+      "阿里云推出Smart Studio，一站式自托管AI模型平台"
+    ]
+  },
+  "arXiv：cs.AI（全量分类）": {
+    "source_label": "arXiv：cs.AI（全量分类）",
+    "source_kind": "unknown",
+    "origin_type": "学术论文",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-26",
+      "daily-2026-04-28"
+    ],
+    "sample_links": [
+      "https://arxiv.org/abs/2604.21827",
+      "https://arxiv.org/abs/2604.21334",
+      "https://arxiv.org/abs/2604.21854",
+      "https://arxiv.org/abs/2604.22109",
+      "https://arxiv.org/abs/2604.22446"
+    ],
+    "sample_titles": [
+      "对齐存在“幻想曲”问题：当AI将不完整提示视为完整意图时",
+      "大型语言模型经济因果推理中的意识形态偏见",
+      "为黑盒划定边界：面向AI风险监管的统计认证框架",
+      "自发说服：日常对话中模型说服力的审计",
+      "从技能到人才：将异构智能体组织为现实世界的公司"
+    ]
+  },
+  "arXiv：cs.CL（计算语言学，全量分类）": {
+    "source_label": "arXiv：cs.CL（计算语言学，全量分类）",
+    "source_kind": "unknown",
+    "origin_type": "学术论文",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-28"
+    ],
+    "sample_links": [
+      "https://arxiv.org/abs/2604.22503"
+    ],
+    "sample_titles": [
+      "测量与缓解AI写作助手导致的作者形象扭曲"
+    ]
+  },
+  "arXiv：cs.LG（机器学习，全量分类）": {
+    "source_label": "arXiv：cs.LG（机器学习，全量分类）",
+    "source_kind": "unknown",
+    "origin_type": "学术论文",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-28"
+    ],
+    "sample_links": [
+      "https://arxiv.org/abs/2604.22407",
+      "https://arxiv.org/abs/2604.22575"
+    ],
+    "sample_titles": [
+      "持续学习中Adam下梯度修改的隐藏失效模式及自适应解耦矩路由修复",
+      "SpikingBrain2.0：面向高效长上下文与跨平台推理的类脑基础模型"
+    ]
+  },
+  "browser-use：GitHub 新仓库": {
+    "source_label": "browser-use：GitHub 新仓库",
+    "source_kind": "unknown",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-22",
+      "daily-2026-04-27"
+    ],
+    "sample_links": [
+      "https://github.com/browser-use/browsercode",
+      "https://github.com/browser-use/bux"
+    ],
+    "sample_titles": [
+      "browser-use/browsercode：驱动真实浏览器的AI编码代理",
+      "开源项目bux：将任意VPS部署为全天候浏览器自动化Claude代理"
+    ]
+  },
+  "xAI：News（网页）": {
+    "source_label": "xAI：News（网页）",
+    "source_kind": "web",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-24",
+      "daily-2026-05-01",
+      "daily-2026-05-07"
+    ],
+    "sample_links": [
+      "https://x.ai/news/grok-voice-think-fast-1",
+      "https://x.ai/news/grok-custom-voices",
+      "https://x.ai/news/grok-connectors",
+      "https://x.ai/news/grok-imagine-quality-mode"
+    ],
+    "sample_titles": [
+      "Grok Voice Think Fast 1.0：xAI发布旗舰语音模型，专为复杂工作流设计",
+      "自定义语音与语音库",
+      "Grok Web 正式推出 Connectors 功能，实现与日常应用深度集成",
+      "Grok Imagine API 推出“Quality Mode”图像生成与编辑功能"
+    ]
+  },
+  "字节 Seed：Research Feed（网页内嵌数据）": {
+    "source_label": "字节 Seed：Research Feed（网页内嵌数据）",
+    "source_kind": "web",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-23"
+    ],
+    "sample_links": [
+      "https://seed.bytedance.com/zh/blog/seed3d-2-0%E5%8F%91%E5%B8%83-%E6%9B%B4%E9%AB%98%E7%B2%BE%E5%BA%A6-%E6%9B%B4%E5%BC%BA%E5%8F%AF%E7%94%A8%E6%80%A7"
+    ],
+    "sample_titles": [
+      "Seed3D 2.0发布,更高精度、更强可用性"
+    ]
+  },
+  "小米 MiMo：GitHub 新仓库（模型发布）": {
+    "source_label": "小米 MiMo：GitHub 新仓库（模型发布）",
+    "source_kind": "unknown",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-24"
+    ],
+    "sample_links": [
+      "https://github.com/XiaomiMiMo/MiMo-V2.5-ASR"
+    ],
+    "sample_titles": [
+      "小米MiMo团队发布MiMo-V2.5-ASR语音识别模型"
+    ]
+  },
+  "蚂蚁 inclusionAI：HuggingFace 新模型": {
+    "source_label": "蚂蚁 inclusionAI：HuggingFace 新模型",
+    "source_kind": "unknown",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-22",
+      "daily-2026-04-23",
+      "daily-2026-04-29",
+      "daily-2026-04-30"
+    ],
+    "sample_links": [
+      "https://huggingface.co/inclusionAI/DR-Venus-4B-RL",
+      "https://huggingface.co/inclusionAI/DR-Venus-4B-SFT",
+      "https://huggingface.co/inclusionAI/DR-Venus-4B-RL-GGUF",
+      "https://huggingface.co/inclusionAI/LLaDA2.0-Uni",
+      "https://huggingface.co/inclusionAI/Ling-2.6-flash"
+    ],
+    "sample_titles": [
+      "inclusionAI/DR-Venus-4B-RL 发布",
+      "inclusionAI/DR-Venus-4B-SFT模型",
+      "inclusionAI/DR-Venus-4B-RL-GGUF",
+      "inclusionAI/LLaDA2.0-Uni",
+      "inclusionAI/Ling-2.6-flash"
+    ]
+  },
+  "蚂蚁百灵：Developer Blog（网页）": {
+    "source_label": "蚂蚁百灵：Developer Blog（网页）",
+    "source_kind": "web",
+    "origin_type": "官方",
+    "selection_rule": "seen on daily page",
+    "evidence_pages": [
+      "daily-2026-04-24"
+    ],
+    "sample_links": [
+      "https://developer.ant-ling.com/zh-CN/blogs/ling-2.6-flash-release"
+    ],
+    "sample_titles": [
+      "Ling-2.6-flash 发布：更快响应、更强执行、更高 Token Efficiency"
+    ]
+  },
+  "X：servasyy_ai (@servasyy_ai)": {
+    "source_label": "X：servasyy_ai (@servasyy_ai)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "user added",
+    "evidence_pages": [],
+    "sample_links": [],
+    "sample_titles": []
+  },
+  "X：dingyi (@dingyi)": {
+    "source_label": "X：dingyi (@dingyi)",
+    "source_kind": "x",
+    "origin_type": "X·KOL",
+    "selection_rule": "user added",
+    "evidence_pages": [],
+    "sample_links": [],
+    "sample_titles": []
+  }
+}
