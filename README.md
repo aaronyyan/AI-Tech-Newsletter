@@ -24,8 +24,8 @@ Bash
 
 ```
 # 克隆项目
-git clone https://github.com/your-username/ai-tech-newsletter.git
-cd ai-tech-newsletter
+git clone https://github.com/aaronyyan/AI-Tech-Newsletter.git
+cd AI-Tech-Newsletter
 
 # 安装 Python 依赖
 pip install -r requirements.txt # 或 pip install translators playwright
@@ -129,7 +129,7 @@ Plaintext
 
 | **Bento 风格看板长图预览**                                   |
 | ------------------------------------------------------------ |
-| ![2026-05-17-每日AI科技资讯](/Users/yanlixing/Documents/ai-rss-briefing/2026-05/05-17/2026-05-17-每日AI科技资讯.png) |
+| https://meee.com.tw/kfz1RtK |
 
 ------
 
